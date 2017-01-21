@@ -70,29 +70,58 @@ Animals interact with a complex world, encountering a variety of challenges: The
 
 In each of the first three weeks, the course focuses on material at increasing levels of complexity (molecular/cellular, network, cognitive/behavioral), but always with an eye on these questions: Can we derive biologically plausible mechanisms that explain how nervous systems solve specific computational problems that arise in the laboratory or natural environment? Can these problems be decomposed into manageable pieces, and can we relate such mathematical decompositions to the observable properties of individual neurons and circuits? Can we identify the molecular mechanisms that provide the building blocks for these computations, as well as understand how the building blocks are organized into cells and circuits that perform useful functions?
 
+
 ## [Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)
 *Marine Biological Laboratory, Chicago, US ~ August 13 – September 3, 2017*
 
 The basis of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines – is arguably the greatest problem in science and technology. To solve it, we will need to understand how human intelligence emerges from computations in neural circuits, with rigor sufficient to reproduce similar intelligent behavior in machines. Success in this endeavor ultimately will enable us to understand ourselves better, to produce smarter machines, and perhaps even to make ourselves smarter. Today’s AI technologies, such as Watson and Siri, are impressive, but their domain specificity and reliance on vast numbers of labeled examples are obvious limitations; few view this as brain-like or human intelligence. The synergistic combination of cognitive science, neurobiology, engineering, mathematics, and computer science holds the promise to build much more robust and sophisticated algorithms implemented in intelligent machines. The goal of this course is to help produce a community of leaders that is equally knowledgeable in neuroscience, cognitive science, and computer science and will lead the development of true biologically inspired AI.
+
 
 ## [Transylvanian Experimental Neuroscience Summer School (DL:  March 5, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
 *The Pike Lake, Transylvania, Romania ~ June 1 – 19, 2017*
 
 TENSS concentrates top-level international expertise to teach a dozen students techniques and concepts in experimental systems neuroscience. We focus on modern optical and electrophysiological methods to study the connectivity and function of neuronal circuits. The course is designed to be intensive and highly interactive, including both lab sessions and theoretical lectures. Coursework will take place in a land of myth and legend, beyond large forests (Transylvania), on the shores of a picturesque natural reserve called Pike Lake. Applications are welcome from interested (and interesting) graduate students and postdocs.
 
-## [Summer School in Computational Sensory-Motor Neuroscience(DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)
+
+## [Interacting with neural circuits (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)
+*Champalimaud Centre for the Unknown, Portugal ~ July 2 – 22, 2017*
+
+Understanding how activity in neural circuits drives behavior is a fundamental problem in neuroscience. Making this link requires detailed information about the cell types and their connectivity, as well as the spatiotemporal patterns of activity in neural circuits in the intact brain during behaviour. Moreover, probing causal relationships between cellular and circuit-level processes and behaviour requires perturbation of specific elements of the circuit in a temporally and spatially precise manner. This course will highlight the new anatomical, optical, genetic, electrophysiological, and pharmacogenetic approaches that are available for addressing these challenges. The faculty will discuss tool development through to their implementation in diverse model systems. Students will learn the potential and limitations of these techniques, allowing them to both design and interpret experiments correctly.
+
+
+## [Advanced Techniques for Synapse Biology (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/ATSB2017/)
+*Bordeaux Neurocampus, France ~ July 3 – 23, 2017*
+
+Synapses are the major sites of information processing in the brain. The complexity of the synapse has been described in the past few years in great molecular details and major achievements have been gained in the understanding of networks of proteins occurring at the pre-synaptic cytomatrix and the postsynaptic compartment of both excitatory and inhibitory synapses. Synaptic dysfunction is a central aspect of many brain disorders (“synaptopathies”) and synapses are and potentially will be the main target of drugs for brain diseases. Synapses integrate complex signals through temporal and spatial codes and undergo rapid structural and functional changes (synaptic plasticity) that underlie the formation of engrams in the brain. Maladaptation of such processes can lead to aberrant perception, cognitive dysfunction or neurodegeneration. The study of the molecular mechanisms of synaptic function and -plasticity are the key to understanding of how the brain works and what goes wrong in brain disease. The advanced course will expose students to state-of-art techniques for molecular imaging and functional methodologies, through direct hands-on experiments.
+
+
+## [CAJAL Course in Computational Neuroscience (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/CCCN2017/)
+*Champalimaud Centre for the Unknown, Portugal ~ August 6 – 26, 2017*
+
+Computational Neuroscience is a rapidly evolving field whose methods and techniques are critical for understanding and modeling the brain, and also for designing and interpreting experiments. Mathematical modeling is one of the few tools available to cut through the vast complexity of neurobiological systems and their many interacting elements.  This school teaches the central ideas, methods, and practice of modern computational neuroscience. Our mission with the course is to train the future generation of both computational and experimental neuroscientists, and to foster theory-driven experimental research. We provide a broad overview of theoretical techniques, from the introductory to the more advanced that are critical for understanding and modeling the brain, and for designing and interpreting experiments. A range of theoretical topics is covered, including cellular biophysics, neural network dynamics, neural coding and computation, statistical analysis of neural data, and behavioral and cognitive aspects of neural function. The course includes a strong hands-on and project-oriented component. Furthermore, the course will be held in Lisbon, Portugal with its many nearby sites and beaches offering ample opportunities to relax/explore during course breaks.
+
+
+## [Summer School in Computational Sensory-Motor Neuroscience (DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)
 *University of Minnesota, Minneapolis, MN, USA ~ July 31 – August 14, **2016***
 
 This unique summer school focuses on computational techniques integrating the multi-disciplinary nature of sensory-motor neuroscience through combined empirical-theoretical teaching modules and makes use of databases of movement data (NSF CRCNS). Major breakthroughs in brain research have been achieved through computational models. The goal of the Summer School in Computational Sensory-Motor Neuroscience is to provide cross-disciplinary training in mathematical modelling techniques relevant to understanding brain function, dysfunction and treatment. In a unique approach bridging experimental research, clinical pathology and computer simulations, students will learn how to translate ideas and empirical findings into mathematical models. Students will gain a profound understanding of the brain’s working principles and diseases using advanced modelling techniques in hands-on simulations of models during tutored sessions by making use of data / model sharing. This summer school aims at propelling promising students into world-class researchers.
 
-## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
-*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+
 
 ## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
 *Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
 
 ## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
 *Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+
+## [Ion channels in the brain in health and disease (DL:  ?)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)
+*Bordeaux Neurocampus, France ~ September 4 – 22, 2017*
+
+Ion channels play a major role in neuronal excitability. Diseases, termed channelopathies, are related to inherited or acquired dysfunctions of ion channels:  epilepsy, migraine, ataxia and deafness. Roughly 15% of known therapeutic drugs including anaesthetics, analgesics, anti-epileptics and anxiolytics have their primary action on ion channels, making them the second largest target class after G-protein coupled receptors. With the advent of a better understanding of cellular physiology and identification of the molecular components that constitute individual channel types and/or control their activity, rational molecular-based strategies to identify ion channel modulators are now within reach.
+
+We are organizing a summer course to provide promising young investigators with a comprehensive introduction to state-of-the-art techniques in ion channel study,  including - but not limited - to genetics, electrophysiology, imaging, as well as structure-function and pathophysiological approaches. This 3-week course is a practical “hands-on” introduction to advanced methods in ion channel recording and analysis and will cover sufficient background such that all participants will be able to establish these techniques in their home laboratories. 
+
+
 
 http://www.mbl.edu/education/special-topics-courses/brains-minds-and-machines/
 http://www.mbl.edu/education/special-topics-courses/methods-in-computational-neuroscience/
