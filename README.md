@@ -62,14 +62,37 @@ Investigating information processing and identifying operational rules of brain 
 
 Frontiers in Neurophotonics is an opportunity to meet fellow researchers and students from around the world, discuss and discover the latest advances in live cell optical imaging techniques put in perspective by experimental challenges in the field of neuroscience. The school will combine tutorials given by experts in photonics and neuroscience and hands-on experiments involving advanced optical approaches to measure, manipulate and follow molecular events in living neuronal cells.
 
-## [Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)
-*Marine Biological Laboratory, Chicago, US ~ June 2 - July 31, 2017*
 
-## [Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)
-*Marine Biological Laboratory, Chicago, US ~ June 2 - July 31, 2017*
+## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
 
-## [Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)
-*Marine Biological Laboratory, Chicago, US ~ June 2 - July 31, 2017*
+Animals interact with a complex world, encountering a variety of challenges: They must gather data about the environment, discover useful structures in these data, store and recall information about past events, plan and guide actions, learn the consequences of these actions, etc. These are, in part, computational problems that are solved by networks of neurons, from roughly 100 cells in a small worm to 100 billion in humans. Methods in Computational Neuroscience introduces students to the computational and mathematical techniques that are used to address how the brain solves these problems at levels of neural organization ranging from single membrane channels to operations of the entire brain.
+
+In each of the first three weeks, the course focuses on material at increasing levels of complexity (molecular/cellular, network, cognitive/behavioral), but always with an eye on these questions: Can we derive biologically plausible mechanisms that explain how nervous systems solve specific computational problems that arise in the laboratory or natural environment? Can these problems be decomposed into manageable pieces, and can we relate such mathematical decompositions to the observable properties of individual neurons and circuits? Can we identify the molecular mechanisms that provide the building blocks for these computations, as well as understand how the building blocks are organized into cells and circuits that perform useful functions?
+
+## [Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)
+*Marine Biological Laboratory, Chicago, US ~ August 13 – September 3, 2017*
+
+The basis of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines – is arguably the greatest problem in science and technology. To solve it, we will need to understand how human intelligence emerges from computations in neural circuits, with rigor sufficient to reproduce similar intelligent behavior in machines. Success in this endeavor ultimately will enable us to understand ourselves better, to produce smarter machines, and perhaps even to make ourselves smarter. Today’s AI technologies, such as Watson and Siri, are impressive, but their domain specificity and reliance on vast numbers of labeled examples are obvious limitations; few view this as brain-like or human intelligence. The synergistic combination of cognitive science, neurobiology, engineering, mathematics, and computer science holds the promise to build much more robust and sophisticated algorithms implemented in intelligent machines. The goal of this course is to help produce a community of leaders that is equally knowledgeable in neuroscience, cognitive science, and computer science and will lead the development of true biologically inspired AI.
+
+## [Transylvanian Experimental Neuroscience Summer School (DL:  March 5, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*The Pike Lake, Transylvania, Romania ~ June 1 – 19, 2017*
+
+TENSS concentrates top-level international expertise to teach a dozen students techniques and concepts in experimental systems neuroscience. We focus on modern optical and electrophysiological methods to study the connectivity and function of neuronal circuits. The course is designed to be intensive and highly interactive, including both lab sessions and theoretical lectures. Coursework will take place in a land of myth and legend, beyond large forests (Transylvania), on the shores of a picturesque natural reserve called Pike Lake. Applications are welcome from interested (and interesting) graduate students and postdocs.
+
+## [Summer School in Computational Sensory-Motor Neuroscience(DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)
+*University of Minnesota, Minneapolis, MN, USA ~ July 31 – August 14, **2016***
+
+This unique summer school focuses on computational techniques integrating the multi-disciplinary nature of sensory-motor neuroscience through combined empirical-theoretical teaching modules and makes use of databases of movement data (NSF CRCNS). Major breakthroughs in brain research have been achieved through computational models. The goal of the Summer School in Computational Sensory-Motor Neuroscience is to provide cross-disciplinary training in mathematical modelling techniques relevant to understanding brain function, dysfunction and treatment. In a unique approach bridging experimental research, clinical pathology and computer simulations, students will learn how to translate ideas and empirical findings into mathematical models. Students will gain a profound understanding of the brain’s working principles and diseases using advanced modelling techniques in hands-on simulations of models during tutored sessions by making use of data / model sharing. This summer school aims at propelling promising students into world-class researchers.
+
+## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+
+## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+
+## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
 
 http://www.mbl.edu/education/special-topics-courses/brains-minds-and-machines/
 http://www.mbl.edu/education/special-topics-courses/methods-in-computational-neuroscience/
