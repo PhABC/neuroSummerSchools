@@ -1,6 +1,8 @@
 #NeuroSummerSchools
 
-This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools.
+This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools. 
+
+Note that some summer shools are free and sometimes even cover all expenses or offer support grants for those in need.
 
 #Index
 - [Neuroscience](#neuroscience)
