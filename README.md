@@ -3,8 +3,8 @@
 This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools.
 
 #Index
-1. [Neuroscience](#Neuroscience)
-2. [Related Fields](#Related Fields (modeling, machine learning, etc.))
+1. [ Neuroscience](#Neuroscience)
+2. [ Related Fields](#Related Fields (modeling, machine learning, etc.))
 
 # Neuroscience 
 
