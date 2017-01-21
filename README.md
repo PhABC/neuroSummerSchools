@@ -4,7 +4,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 # Neuroscience 
 
-<img src="https://www.janelia.org/sites/default/files/Labs/Spruston%20Lab/Spruston_Research.jpg" 'Nelson Spruston Lab' width="600" height="300">
+<img src="https://www.janelia.org/sites/default/files/Labs/Spruston%20Lab/Spruston_Research.jpg" 'Nelson Spruston Lab' width="900" height="400">
 
 ## [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](https://portal.g-node.org/advanced-course-2017/doku.php)
 *Juelich, Germany ~ March 26 - April 8 2017*
