@@ -5,7 +5,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 # Neuroscience 
 
 ## [VI Latin American School on Computational Neuroscience (DL : September)](http://www.nncn.de/en/study-training-options/Kurse)
-*São Paulo, SP, Brazil ~ January 3 – 29 2016
+*São Paulo, SP, Brazil ~ January 3 – 29 2016*
 
 The sixth edition of the Latin American School on Computational Neuroscience – LASCON VI will be held in the city of São Paulo, Brazil. The school will last for four  weeks and will cover topics as: biophysically detailed single neuron models; reduced and simplified neuron models; neural network models; synaptic plasticity and memory models; neural dynamics; spike train analysis; connectomics; stochastic models in neuroscience; and computational psychiatry. These models will be illustrated with the use of programs like NEURON, neuroConstruct, Matlab, NEST, Brian and the Virtual Brain. The faculty is composed of an international team of world-renowned researchers in the field of computational neuroscience.
 
