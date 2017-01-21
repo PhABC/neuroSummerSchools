@@ -158,6 +158,8 @@ The CAJAL course in Connectomics is an intensive three-week course that guides p
 # Related fields (modeling, machine learning, etc.)
 This list will contain some summerschools in programming, machine learning, dynamical systems and more.
 
+<img src = "https://static1.squarespace.com/static/5213a664e4b01a5565dc90f1/t/538fbc0ee4b0c7791318c5c7/1401928721203/circles-mathematics-arcane-trigonometry-_854-31.jpg?format=1500w" width="900" height="400">
+
 ## [Complexity Summer School List](http://www.scoop.it/t/cxconferences)
 This webpage contains a list of summer schools, workshops and conferences in the field of complex systems and related fields. I will not copy all the links as this webpage is nicely organized already.
 
