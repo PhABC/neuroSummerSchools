@@ -1,24 +1,14 @@
 #NeuroSummerSchools
 
-This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields.
+This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools.
 
 # Neuroscience 
-
-## [VI Latin American School on Computational Neuroscience (DL : September)](http://www.nncn.de/en/study-training-options/Kurse)
-*São Paulo, SP, Brazil ~ January 3 – 29, **2016 (every even year)** *
-
-The sixth edition of the Latin American School on Computational Neuroscience – LASCON VI will be held in the city of São Paulo, Brazil. The school will last for four  weeks and will cover topics as: biophysically detailed single neuron models; reduced and simplified neuron models; neural network models; synaptic plasticity and memory models; neural dynamics; spike train analysis; connectomics; stochastic models in neuroscience; and computational psychiatry. These models will be illustrated with the use of programs like NEURON, neuroConstruct, Matlab, NEST, Brian and the Virtual Brain. The faculty is composed of an international team of world-renowned researchers in the field of computational neuroscience.
 
 ## [Advanced Course on Neural Data Analysis (DL: 31 January)](https://portal.g-node.org/advanced-course-2017/doku.php)
 *Juelich, Germany ~ March 26 - April 8 2017*
 
 Techniques to record neuronal data from single neurons and population of neurons are rapidly improving. Meanwhile recordings are possible from hundreds of channels simultaneously while animals perform complex tasks. Thus also the analysis of such data becomes increasingly challenging. This advanced course aims at providing deeper insights in state-of-the-art questions in neuroscience, analysis approaches and how to formalize questions to neuronal data so they can be answered quantitatively.
 
-
-## [Neural Systems & Behavior (DL: February 1, 2017)](http://www.mbl.edu/education/summer-courses/neural-systems-behavior/)
-*Marine Biological Laboratory, Chicago, US ~ June 4 - July 31, 2017*
-
-This course provides broad training in modern approaches to the study of neural mechanisms underlying behavior, perception, and cognition. Through a combination of lectures, exercises, and projects, students investigate neural systems at the molecular, cellular, and organismal levels using state-of-the-art techniques. The eight weeks are divided into two-week cycles, providing participants with an in-depth familiarity with several different experimental model systems. In the first cycle, students study a simple invertebrate model system to develop general experimental skills in electrophysiology, neuroanatomy, and quantitative analysis of physiological and behavioral data. In subsequent cycles, students work on a series of different preparations, providing them with a breadth of knowledge in the field. The list of experimental model systems is updated year-to-year, but always includes a diverse array of vertebrate and invertebrate preparations, chosen to illustrate key concepts and novel techniques in the field. The goal of the course is to expose students to diverse approaches to the investigation of the neural basis of behavior.
 
 ## [Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)
 *Marine Biological Laboratory, Chicago, US ~ June 2 - July 31, 2017*
@@ -29,12 +19,25 @@ Electrophysiological methods focus on patch-clamp and sharp electrode recordings
 
 The goal of the course is to emphasize the strengths of a multidisciplinary approach for studying the function of the nervous system at the cellular and molecular levels.
 
+
+## [Neural Systems & Behavior (DL: February 1, 2017)](http://www.mbl.edu/education/summer-courses/neural-systems-behavior/)
+*Marine Biological Laboratory, Chicago, US ~ June 4 - July 31, 2017*
+
+This course provides broad training in modern approaches to the study of neural mechanisms underlying behavior, perception, and cognition. Through a combination of lectures, exercises, and projects, students investigate neural systems at the molecular, cellular, and organismal levels using state-of-the-art techniques. The eight weeks are divided into two-week cycles, providing participants with an in-depth familiarity with several different experimental model systems. In the first cycle, students study a simple invertebrate model system to develop general experimental skills in electrophysiology, neuroanatomy, and quantitative analysis of physiological and behavioral data. In subsequent cycles, students work on a series of different preparations, providing them with a breadth of knowledge in the field. The list of experimental model systems is updated year-to-year, but always includes a diverse array of vertebrate and invertebrate preparations, chosen to illustrate key concepts and novel techniques in the field. The goal of the course is to expose students to diverse approaches to the investigation of the neural basis of behavior.
+
+
 ## [OIST Computational Neuroscience Course (DL: February 5, 2017)](https://groups.oist.jp/ocnc)
 *Okinawa Institute of Science and Technology, Okinawa, Japan ~ June 26 - July 13, 2017*
 
 The aim of the Okinawa Computational Neuroscience Course is to provide opportunities for young researchers with theoretical backgrounds to learn the latest advances in neuroscience, and for those with experimental backgrounds to have hands-on experience in computational modeling. 
 
 OCNC will be a comprehensive three-week course covering single neurons, networks, and behaviors with ample time for student projects. The first week will focus exclusively on methods with hands-on tutorials during the afternoons, while the second and third weeks will have lectures by international experts. We invite those who are interested in integrating experimental and computational approaches at each level, as well as in bridging different levels of complexity.
+
+
+## [Kavli Summer Institute in Cognitive Neuroscience (SI) (DL: February 10, 2017)](http://sicn.cmb.ucdavis.edu/)
+*Santa Barbara, CA, US ~ June 26 - July 7, 2017*
+
+The Kavli Summer Institute in Cognitive Neuroscience (SI), supported by NIMH, NIDA and the Kavli Foundation, advances the cognitive neurosciences by training the next generation of researchers in emerging information, methods and theoretical perspectives in mind-brain science, including how this knowledge is applied in translational research that addresses major mental health challenges.
 
 
 ## [Chemical Neuromodulation: Neurobiological, Neurocomputational, Behavioural and Clinical (DL: February 13, 2017)](http://www.fens.org/Training/FENS-Schools/FENS-SfN-Summer-School-2017/)
@@ -51,18 +54,6 @@ The basic neuroscience of these neurotransmitter systems will be covered by lect
 This two-week school will teach participants how to use the Nengo simulation package to build state-of-the-art cognitive and neural models. Nengo has been used to build what is currently the world's largest functional brain model, Spaun, and provides users with a versatile and powerful environment for modelling cognitive and neural systems to run in simulation and on neuromorphic hardware. We welcome applications from all interested graduate students, research associates, postdocs, professors, and industry professionals. No specific training in the use of modelling software is required, but we encourage applications from active researchers with a relevant background in psychology, neuroscience, cognitive science, computer science, robotics, neuromorphic engineering, or a related field.
 
 The main goal of the summer school is to have participants learn to build state-of-the-art neural or cognitive models using Nengo. Participants are encouraged to bring their own ideas for projects, which may focus on testing hypotheses, modelling neural or cognitive data, implementing specific behavioural functions with neurons, expanding past models, or provide a proof-of-concept of various neural mechanisms. Projects can be focused on software, hardware, or a combination of both.
-
-
-## [Computational Approaches to Memory and Plasticity (DL: March 12, 2016)](https://camp.ncbs.res.in/)
-*National Centre for Biological Sciences, Bangalore, India ~ July 1 - July 16, 2017*
-
-CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Bangalore) is a 16-day summer school on the theory and simulation of learning, memory and plasticity in the brain. PhD students and post-docs from theoretical and/or experimental backgrounds (physics, math, neuroscience, engineering, etc.) are invited to apply. Familiarity with programming, dynamical systems, and/or computational neuroscience is desirable, but not necessary. We may also select a small number of exceptional undergraduate and Masters level students for the course, if they have sufficient background via courses and especially via project / hobby work related to these areas (write in your statement of interest & CV). The course will start with remedial tutorials on neuroscience / math / programming and then work upwards from sub-cellular electrical and chemical signaling in neurons, onward to micro-circuits and networks, all with an emphasis on learning, memory and plasticity.
-
-
-## [School on Neurotechniques (DL: ??)](http://www.vassanellilab.eu/school-neurotechniques/school-neurotechniques-2016/)
-*University of Padua – Italy ~ 15 – 19 February, **2016** *
-
-Investigating information processing and identifying operational rules of brain neural circuits relies on the capability to selectively record and stimulate multiple neurons within a network. The toolbox of available techniques conceived to meet this need is rapidly expanding.The CSN School on Neurotechniques 2016 will offer an overview on advanced electrical- and light-based recording methods of neuronal excitability, focusing on those that are most relevant for the investigation of neural networks ‘in vitro’ and ‘in vivo’ and for application in neuroprosthetics. Methods and protocols on laboratory techniques and signal analysis  will be presented.
 
 
 ## [Frontier in Neurophotonics (DL: March 1, 2017)](https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school)
@@ -83,6 +74,12 @@ TENSS concentrates top-level international expertise to teach a dozen students t
 Animals interact with a complex world, encountering a variety of challenges: They must gather data about the environment, discover useful structures in these data, store and recall information about past events, plan and guide actions, learn the consequences of these actions, etc. These are, in part, computational problems that are solved by networks of neurons, from roughly 100 cells in a small worm to 100 billion in humans. Methods in Computational Neuroscience introduces students to the computational and mathematical techniques that are used to address how the brain solves these problems at levels of neural organization ranging from single membrane channels to operations of the entire brain.
 
 In each of the first three weeks, the course focuses on material at increasing levels of complexity (molecular/cellular, network, cognitive/behavioral), but always with an eye on these questions: Can we derive biologically plausible mechanisms that explain how nervous systems solve specific computational problems that arise in the laboratory or natural environment? Can these problems be decomposed into manageable pieces, and can we relate such mathematical decompositions to the observable properties of individual neurons and circuits? Can we identify the molecular mechanisms that provide the building blocks for these computations, as well as understand how the building blocks are organized into cells and circuits that perform useful functions?
+
+
+## [Computational Approaches to Memory and Plasticity (DL: March 12, 2016)](https://camp.ncbs.res.in/)
+*National Centre for Biological Sciences, Bangalore, India ~ July 1 - July 16, **2016** *
+
+CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Bangalore) is a 16-day summer school on the theory and simulation of learning, memory and plasticity in the brain. PhD students and post-docs from theoretical and/or experimental backgrounds (physics, math, neuroscience, engineering, etc.) are invited to apply. Familiarity with programming, dynamical systems, and/or computational neuroscience is desirable, but not necessary. We may also select a small number of exceptional undergraduate and Masters level students for the course, if they have sufficient background via courses and especially via project / hobby work related to these areas (write in your statement of interest & CV). The course will start with remedial tutorials on neuroscience / math / programming and then work upwards from sub-cellular electrical and chemical signaling in neurons, onward to micro-circuits and networks, all with an emphasis on learning, memory and plasticity.
 
 
 ## [Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)
@@ -109,7 +106,7 @@ Synapses are the major sites of information processing in the brain. The complex
 Computational Neuroscience is a rapidly evolving field whose methods and techniques are critical for understanding and modeling the brain, and also for designing and interpreting experiments. Mathematical modeling is one of the few tools available to cut through the vast complexity of neurobiological systems and their many interacting elements.  This school teaches the central ideas, methods, and practice of modern computational neuroscience. Our mission with the course is to train the future generation of both computational and experimental neuroscientists, and to foster theory-driven experimental research. We provide a broad overview of theoretical techniques, from the introductory to the more advanced that are critical for understanding and modeling the brain, and for designing and interpreting experiments. A range of theoretical topics is covered, including cellular biophysics, neural network dynamics, neural coding and computation, statistical analysis of neural data, and behavioral and cognitive aspects of neural function. The course includes a strong hands-on and project-oriented component. Furthermore, the course will be held in Lisbon, Portugal with its many nearby sites and beaches offering ample opportunities to relax/explore during course breaks.
 
 
-## [Summer Workshop on the Dynamic Brain (DL: April 1, 2017)](http://courses.washington.edu/braindyn/)
+## [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)
 *Friday Harbor Laboratories, Washington, US ~ August 19 - September 3, 2017*
 
 This intensive, two-week, projects-based, interdisciplinary course aims to give advanced students in neuroscience, biology, physics, engineering and computer science a rapid introduction to the current state of understanding of the neurobiology of sensory processing, including anatomy, physiology and neural coding.
@@ -123,12 +120,23 @@ The workshop will include include data analyses, Python and other software boot-
 This unique summer school focuses on computational techniques integrating the multi-disciplinary nature of sensory-motor neuroscience through combined empirical-theoretical teaching modules and makes use of databases of movement data (NSF CRCNS). Major breakthroughs in brain research have been achieved through computational models. The goal of the Summer School in Computational Sensory-Motor Neuroscience is to provide cross-disciplinary training in mathematical modelling techniques relevant to understanding brain function, dysfunction and treatment. In a unique approach bridging experimental research, clinical pathology and computer simulations, students will learn how to translate ideas and empirical findings into mathematical models. Students will gain a profound understanding of the brain’s working principles and diseases using advanced modelling techniques in hands-on simulations of models during tutored sessions by making use of data / model sharing. This summer school aims at propelling promising students into world-class researchers.
 
 
+## [Berkeley summer course in mining and modeling of neuroscience data (DL: End April 2016)](https://crcns.org/course)
+*Redwood Center for Theoretical Neuroscience, UC Berkeley, US ~ July 11 - 22, **2016** *
 
-## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
-*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+This course is for students and researchers with backgrounds in mathematics and computational sciences who are interested in applying their skills toward problems in neuroscience. It will introduce the major open questions of neuroscience and teach state-of–the-art techniques for analyzing and modeling neuroscience data sets. The course is designed for students at the graduate level and researchers with background in a quantitative field such as engineering, mathematics, physics or computer science who may or may not have a specific neuroscience background. The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience. The course is sponsored by the National Institute of Health, the National Science Foundation from a grant supporting activities at the data sharing repository CRCNS.org, and the Helen Wills Neuroscience Institute.
 
-## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
-*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+
+## [VI Latin American School on Computational Neuroscience (DL : September)](http://www.nncn.de/en/study-training-options/Kurse)
+*São Paulo, SP, Brazil ~ January 3 – 29, **2016 (every even year)** *
+
+The sixth edition of the Latin American School on Computational Neuroscience – LASCON VI will be held in the city of São Paulo, Brazil. The school will last for four  weeks and will cover topics as: biophysically detailed single neuron models; reduced and simplified neuron models; neural network models; synaptic plasticity and memory models; neural dynamics; spike train analysis; connectomics; stochastic models in neuroscience; and computational psychiatry. These models will be illustrated with the use of programs like NEURON, neuroConstruct, Matlab, NEST, Brian and the Virtual Brain. The faculty is composed of an international team of world-renowned researchers in the field of computational neuroscience.
+
+
+## [School on Neurotechniques (DL: ??)](http://www.vassanellilab.eu/school-neurotechniques/school-neurotechniques-2016/)
+*University of Padua – Italy ~ 15 – 19 February, **2016** *
+
+Investigating information processing and identifying operational rules of brain neural circuits relies on the capability to selectively record and stimulate multiple neurons within a network. The toolbox of available techniques conceived to meet this need is rapidly expanding.The CSN School on Neurotechniques 2016 will offer an overview on advanced electrical- and light-based recording methods of neuronal excitability, focusing on those that are most relevant for the investigation of neural networks ‘in vitro’ and ‘in vivo’ and for application in neuroprosthetics. Methods and protocols on laboratory techniques and signal analysis  will be presented.
+
 
 ## [Ion channels in the brain in health and disease (DL:  ?)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)
 *Bordeaux Neurocampus, France ~ September 4 – 22, 2017*
@@ -137,30 +145,53 @@ Ion channels play a major role in neuronal excitability. Diseases, termed channe
 
 We are organizing a summer course to provide promising young investigators with a comprehensive introduction to state-of-the-art techniques in ion channel study,  including - but not limited - to genetics, electrophysiology, imaging, as well as structure-function and pathophysiological approaches. This 3-week course is a practical “hands-on” introduction to advanced methods in ion channel recording and analysis and will cover sufficient background such that all participants will be able to establish these techniques in their home laboratories. 
 
+
 ## [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ?)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Connectomics/)
 *Bordeaux Neurocampus, France, Portugal ~ October 2 – 21, 2017*
 
 The CAJAL course in Connectomics is an intensive three-week course that guides participants through the theory and practice of state-of the art methods to address pertinent questions in the field of structural/functional connectomics from mice to man. This goal will be achieved through a unique balance of lectures from world-wide experts in their respective fields to experimental demonstrations and hands-on laboratory work in small groups. During the course each participant will become familiar with a range of approaches, ranging from connectivity studies in the brain slice and in vivo in the behaving brain using electrophysiological, calcium imaging, optogenetic, viral trans-synaptic tracing, whole brain clearing and neuroimaging approaches with magnetic resonance imaging (functional and structural imaging) in both mice and human subjects (performed on the participants) and postmortem tissue.
 
-http://www.mbl.edu/education/special-topics-courses/brains-minds-and-machines/
-http://www.mbl.edu/education/special-topics-courses/methods-in-computational-neuroscience/
-http://www.tenss.ro/index.php
-http://www.compneurosci.com/CoSMo/
-http://www.accn.pt/Downhome
-http://www.alleninstitute.org/news-events/events-training/event/summer-workshop-dynamic-brain-2015
-http://crcns.org/course
-http://www.ices.cmu.edu/gem4/index.htm
-http://summerschool.ssa.org.ua/program
-http://www.incf.org/community/events/
 
-# Data Analysis and Programming 
 
-## [The Machine Learning Summer School (DL : Feburary 17 2017) ](http://mlss.tuebingen.mpg.de/2017/index.html)
+# Related fields (data analysis, modeling, machine learning, etc.)
+This list will contain some summerschools in programming, machine learning, dynamical systems and more.
+
+## [Complexity Summer School List](http://www.scoop.it/t/cxconferences)
+This webpage contains a list of summer schools, workshops and conferences in the field of complex systems and related fields. I will not copy all the links as this webpage is nicely organized already.
+
+
+## [Connecting Biological Data with Mathematical Modelsl (DL : Feburary 3, 2017) ](http://www.nimbios.org/education/grad2017)
+*University of Tennessee, Knoxville, US ~ June 19 - 23 2017* 
+
+This graduate program will have instructors from across North America whose research expertise is mathematical modeling in biological systems using real data. Some of the techniques to be covered include:
+
++ Maximum likelihood and Bayesian approaches to inference
++ Parameter estimation
++ Model identifiability
++ Uncertainty and sensitivity analysis
+
+The program will include lectures on techniques and modeling using specific data sets, and there will be computer activities focusing on learning techniques and sessions to receive feedback on participants’ own research problems. Researchers from the mathematical and biological sciences will be featured speaker
+
+
+## [The Machine Learning Summer School (DL : Feburary 17, 2017) ](http://mlss.tuebingen.mpg.de/2017/index.html)
 *Tübigen, Germany ~ June 19 - 30 2017*
 
 The MLSS is a renowned venue for graduate students, researchers, and professionals. It offers an opportunity to learn about fundamental and advanced aspects of machine learning, data analysis and inference, from intellectual leaders of the field. We are very happy to announce a faculty of highly acclaimed speakers.
 
-## [Advanced Scientific Programming in Python ](https://python.g-node.org/wiki/)
+## [VISion Understanding and Machine intelligence (DL: April 8, 2017)](http://visum.inesctec.pt/)
+*INES TEC Porto, Portugal ~ July 7-14, 2017*
+
+VISion Understanding and Machine intelligence – visum 2017 is the fifth edition of a Summer School that aims to gather Ph.D. candidates, Post-Doctoral scholars and researchers from academia and industry with research interests in computer vision and machine intelligence.
+
+
+## [Deep Learning Summer School (DL: April 11, 2016)](https://sites.google.com/site/deeplearningsummerschool2016/applications)
+*University of Montreal, Montreal, Canada ~ August 1-7, **2016** *
+
+Deep neural networks that learn to represent data in multiple layers of increasing abstraction have dramatically improved the state-of-the-art for speech recognition, object recognition, object detection, predicting the activity of drug molecules, and many other tasks. Deep learning discovers intricate structure in large datasets by building distributed representations, either via supervised, unsupervised or reinforcement learning.
+
+This summer schools is aimed at graduate students and industrial engineers and researchers who already have some basic knowledge of machine learning (and possibly but not necessarily of deep learning) and wish to learn more about this rapidly growing field of research.
+
+## [Advanced Scientific Programming in Python (DL: ?)](https://python.g-node.org/wiki/)
 *Reading, UK ~ September 5-10, 2016*
 
 Scientists spend more and more time writing, maintaining, and debugging software. While techniques for doing this efficiently have evolved, only few scientists have been trained to use them. As a result, instead of doing their research, they spend far too much time writing deficient code and reinventing the wheel. In this course we will present a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Lectures are devised to be interactive and to give the students enough time to acquire direct hands-on experience with the materials. Students will work in pairs throughout the school and will team up to practice the newly learned skills in a real programming project — an entertaining computer game.
