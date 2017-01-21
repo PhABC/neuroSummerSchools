@@ -3,8 +3,36 @@
 This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools.
 
 #Index
-1. [ Neuroscience](#neuroscience)
-2. [ Related Fields](#related-fields-modeling-machine-learning-etc)
+- [Neuroscience](#neuroscience)
+  * [[Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](https://portal.g-node.org/advanced-course-2017/doku.php)](#-advanced-course-on-neural-data-analysis--dl--31-january--2017---https---portalg-nodeorg-advanced-course-2017-dokuphp-)
+  * [[Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)](#-neurobiology--dl--february-1--2017---http---wwwmbledu-education-courses-neurobiology--)
+  * [[Neural Systems & Behavior (DL: February 1, 2017)](http://www.mbl.edu/education/summer-courses/neural-systems-behavior/)](#-neural-systems---behavior--dl--february-1--2017---http---wwwmbledu-education-summer-courses-neural-systems-behavior--)
+  * [[OIST Computational Neuroscience Course (DL: February 5, 2017)](https://groups.oist.jp/ocnc)](#-oist-computational-neuroscience-course--dl--february-5--2017---https---groupsoistjp-ocnc-)
+  * [[Kavli Summer Institute in Cognitive Neuroscience (SI) (DL: February 10, 2017)](http://sicn.cmb.ucdavis.edu/)](#-kavli-summer-institute-in-cognitive-neuroscience--si---dl--february-10--2017---http---sicncmbucdavisedu--)
+  * [[Chemical Neuromodulation: Neurobiological, Neurocomputational, Behavioural and Clinical (DL: February 13, 2017)](http://www.fens.org/Training/FENS-Schools/FENS-SfN-Summer-School-2017/)](#-chemical-neuromodulation--neurobiological--neurocomputational--behavioural-and-clinical--dl--february-13--2017---http---wwwfensorg-training-fens-schools-fens-sfn-summer-school-2017--)
+  * [[Nengo Summer School (DL: February 15, 2017)](http://www.nengo.ca/summerschool)](#-nengo-summer-school--dl--february-15--2017---http---wwwnengoca-summerschool-)
+  * [[Frontier in Neurophotonics (DL: March 1, 2017)](https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school)](#-frontier-in-neurophotonics--dl--march-1--2017---https---neurophotonicsca-frontiers-in-neurophotonics-summer-school-)
+  * [[Transylvanian Experimental Neuroscience Summer School (DL:  March 5, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)](#-transylvanian-experimental-neuroscience-summer-school--dl---march-5--2017---http---wwwmbledu-education-courses-methods-in-computational-neuroscience--)
+  * [[Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)](#-methods-in-computational-neuroscience--dl---march-7--2017---http---wwwmbledu-education-courses-methods-in-computational-neuroscience--)
+  * [[Computational Approaches to Memory and Plasticity (DL: March 12, 2016)](https://camp.ncbs.res.in/)](#-computational-approaches-to-memory-and-plasticity--dl--march-12--2016---https---campncbsresin--)
+  * [[Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)](#-brains--minds-and-machines--dl--march-14--2017---http---wwwmbledu-education-courses-brains-minds-and-machines--)
+  * [[Interacting with neural circuits (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)](#-interacting-with-neural-circuits--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-interacting-with-neural-circuits--)
+  * [[Advanced Techniques for Synapse Biology (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/ATSB2017/)](#-advanced-techniques-for-synapse-biology--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-atsb2017--)
+  * [[CAJAL Course in Computational Neuroscience (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/CCCN2017/)](#-cajal-course-in-computational-neuroscience--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-cccn2017--)
+  * [[Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)](#-summer-workshop-on-the-dynamic-brain--dl--april-1st--2017---http---courseswashingtonedu-braindyn--)
+  * [[Summer School in Computational Sensory-Motor Neuroscience (DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)](#-summer-school-in-computational-sensory-motor-neuroscience--dl---april-11--2016---http---wwwcompneuroscicom-cosmo--)
+  * [[Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](https://crcns.org/course)](#-berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data--dl--end-april--2016---https---crcnsorg-course-)
+  * [[VI Latin American School on Computational Neuroscience (DL : September, 2016)](http://www.nncn.de/en/study-training-options/Kurse)](#-vi-latin-american-school-on-computational-neuroscience--dl---september--2016---http---wwwnncnde-en-study-training-options-kurse-)
+  * [[School on Neurotechniques (DL: ???)](http://www.vassanellilab.eu/school-neurotechniques/school-neurotechniques-2016/)](#-school-on-neurotechniques--dl--------http---wwwvassanellilabeu-school-neurotechniques-school-neurotechniques-2016--)
+  * [[Ion channels in the brain in health and disease (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)](#-ion-channels-in-the-brain-in-health-and-disease--dl--------http---wwwfensorg-training-cajal-programme-cajal-courses-2017-ion-channels--)
+  * [[Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Connectomics/)](#-connectomics--from-micro--to-meso--and-macro-scales--dl--------http---wwwfensorg-training-cajal-programme-cajal-courses-2017-connectomics--)
+- [Related Fields (modeling, machine learning, etc.)](#related-fields--modeling--machine-learning--etc-)
+  * [[Complexity Summer School List](http://www.scoop.it/t/cxconferences)](#-complexity-summer-school-list--http---wwwscoopit-t-cxconferences-)
+  * [[Connecting Biological Data with Mathematical Modelsl (DL : Feburary 3, 2017) ](http://www.nimbios.org/education/grad2017)](#-connecting-biological-data-with-mathematical-modelsl--dl---feburary-3--2017----http---wwwnimbiosorg-education-grad2017-)
+  * [[The Machine Learning Summer School (DL : Feburary 17, 2017) ](http://mlss.tuebingen.mpg.de/2017/index.html)](#-the-machine-learning-summer-school--dl---feburary-17--2017----http---mlsstuebingenmpgde-2017-indexhtml-)
+  * [[VISion Understanding and Machine intelligence (DL: April 8, 2017)](http://visum.inesctec.pt/)](#-vision-understanding-and-machine-intelligence--dl--april-8--2017---http---visuminesctecpt--)
+  * [[Deep Learning Summer School (DL: April 11, 2016)](https://sites.google.com/site/deeplearningsummerschool2016/applications)](#-deep-learning-summer-school--dl--april-11--2016---https---sitesgooglecom-site-deeplearningsummerschool2016-applications-)
+  * [[Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)](#-advanced-scientific-programming-in-python--dl--------https---pythong-nodeorg-wiki--)
 
 # Neuroscience 
 
