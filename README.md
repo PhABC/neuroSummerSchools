@@ -33,6 +33,8 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [[VISion Understanding and Machine intelligence (DL: April 8, 2017)](http://visum.inesctec.pt/)](#-vision-understanding-and-machine-intelligence--dl--april-8--2017---http---visuminesctecpt--)
   * [[Deep Learning Summer School (DL: April 11, 2016)](https://sites.google.com/site/deeplearningsummerschool2016/applications)](#-deep-learning-summer-school--dl--april-11--2016---https---sitesgooglecom-site-deeplearningsummerschool2016-applications-)
   * [[Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)](#-advanced-scientific-programming-in-python--dl--------https---pythong-nodeorg-wiki--)
+  
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Neuroscience 
 
