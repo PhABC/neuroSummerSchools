@@ -4,7 +4,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 #Index
 1. [ Neuroscience](#neuroscience)
-2. [ Related Fields](#related-fields-(modeling,-machine-learning,-etc.))
+2. [ Related Fields](#related-fields-modeling-machine-learning-etc)
 
 # Neuroscience 
 
