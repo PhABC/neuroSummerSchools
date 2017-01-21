@@ -2,6 +2,10 @@
 
 This readme will contain a list of summer (and seasonnal) summer schools in neuroscience and related fields. The courses are ordered by deadlines (DL) for those who provided it. This is not an exhaustive list, but contains all the summer schools I found over the last two years. Feel free to suggest modifications or additional summer schools.
 
+#Index
+1. [Neuroscience](#Neuroscience)
+2. [Related Fields](#Related Fields (modeling, machine learning, etc.))
+
 # Neuroscience 
 
 <img src="https://www.janelia.org/sites/default/files/Labs/Spruston%20Lab/Spruston_Research.jpg" 'Nelson Spruston Lab' width="900" height="400">
@@ -155,7 +159,7 @@ The CAJAL course in Connectomics is an intensive three-week course that guides p
 
 
 
-# Related fields (modeling, machine learning, etc.)
+# Related Fields (modeling, machine learning, etc.)
 This list will contain some summerschools in programming, machine learning, dynamical systems and more.
 
 <img src = "https://static1.squarespace.com/static/5213a664e4b01a5565dc90f1/t/538fbc0ee4b0c7791318c5c7/1401928721203/circles-mathematics-arcane-trigonometry-_854-31.jpg?format=1500w" width="900" height="400">
