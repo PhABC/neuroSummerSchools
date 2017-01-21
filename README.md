@@ -36,6 +36,15 @@ The aim of the Okinawa Computational Neuroscience Course is to provide opportuni
 
 OCNC will be a comprehensive three-week course covering single neurons, networks, and behaviors with ample time for student projects. The first week will focus exclusively on methods with hands-on tutorials during the afternoons, while the second and third weeks will have lectures by international experts. We invite those who are interested in integrating experimental and computational approaches at each level, as well as in bridging different levels of complexity.
 
+
+## [Chemical Neuromodulation: Neurobiological, Neurocomputational, Behavioural and Clinical (DL: February 13, 2017)](http://www.fens.org/Training/FENS-Schools/FENS-SfN-Summer-School-2017/)
+*Bertinoro, Italy ~ June 18 - 24, 2017*
+
+Chemical neuromodulation refers to that set of neurotransmitter systems that arise in the subcortical brain to influence the functions of forebrain networks to produce behaviour and cognitive outputs, under a variety of different states of arousal. These neurotransmitter systems, which include the monoamines such as dopamine, noradrenaline and serotonin, as well as acetylcholine and orexin, are implicated in diverse behavioural and physiological functions and have been implicated in many neuropsychiatric and neurological disorders. The systems have been extensively researched in isolation but have rarely been directly compared experimentally or in conceptual terms; hence one theme of this School will be to make such comparisons.
+
+The basic neuroscience of these neurotransmitter systems will be covered by lectures and discussion groups by an international faculty. Organization and functions of the systems will be compared using a range of multidisciplinary techniques and approaches. These will include the use of novel neuroscience tools provided by opto- and chemo-genetics, electrophysiology, neuropharmacological techniques such as in vivo voltammetry, combined with sophisticated theoretical approaches from cognitive and behavioural neuroscience, including neurocomputational approaches and neuroimaging in experimental animals and humans. Clinical applications will also be covered. 
+
+
 ## [Nengo (DL: February 15, 2017)](http://www.nengo.ca/summerschool)
 *Waterloo University, Waterloo, Canada ~ June 4 - June 16, 2017*
 
@@ -56,11 +65,16 @@ CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Ban
 Investigating information processing and identifying operational rules of brain neural circuits relies on the capability to selectively record and stimulate multiple neurons within a network. The toolbox of available techniques conceived to meet this need is rapidly expanding.The CSN School on Neurotechniques 2016 will offer an overview on advanced electrical- and light-based recording methods of neuronal excitability, focusing on those that are most relevant for the investigation of neural networks ‘in vitro’ and ‘in vivo’ and for application in neuroprosthetics. Methods and protocols on laboratory techniques and signal analysis  will be presented.
 
 
-
 ## [Frontier in Neurophotonics (DL: March 1, 2017)](https://neurophotonics.ca/frontiers-in-neurophotonics-summer-school)
 *Neurophotonic Center, Québec, Canada ~ June 2 - 21, 2017*
 
 Frontiers in Neurophotonics is an opportunity to meet fellow researchers and students from around the world, discuss and discover the latest advances in live cell optical imaging techniques put in perspective by experimental challenges in the field of neuroscience. The school will combine tutorials given by experts in photonics and neuroscience and hands-on experiments involving advanced optical approaches to measure, manipulate and follow molecular events in living neuronal cells.
+
+
+## [Transylvanian Experimental Neuroscience Summer School (DL:  March 5, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
+*The Pike Lake, Transylvania, Romania ~ June 1 – 19, 2017*
+
+TENSS concentrates top-level international expertise to teach a dozen students techniques and concepts in experimental systems neuroscience. We focus on modern optical and electrophysiological methods to study the connectivity and function of neuronal circuits. The course is designed to be intensive and highly interactive, including both lab sessions and theoretical lectures. Coursework will take place in a land of myth and legend, beyond large forests (Transylvania), on the shores of a picturesque natural reserve called Pike Lake. Applications are welcome from interested (and interesting) graduate students and postdocs.
 
 
 ## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
@@ -75,12 +89,6 @@ In each of the first three weeks, the course focuses on material at increasing l
 *Marine Biological Laboratory, Chicago, US ~ August 13 – September 3, 2017*
 
 The basis of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines – is arguably the greatest problem in science and technology. To solve it, we will need to understand how human intelligence emerges from computations in neural circuits, with rigor sufficient to reproduce similar intelligent behavior in machines. Success in this endeavor ultimately will enable us to understand ourselves better, to produce smarter machines, and perhaps even to make ourselves smarter. Today’s AI technologies, such as Watson and Siri, are impressive, but their domain specificity and reliance on vast numbers of labeled examples are obvious limitations; few view this as brain-like or human intelligence. The synergistic combination of cognitive science, neurobiology, engineering, mathematics, and computer science holds the promise to build much more robust and sophisticated algorithms implemented in intelligent machines. The goal of this course is to help produce a community of leaders that is equally knowledgeable in neuroscience, cognitive science, and computer science and will lead the development of true biologically inspired AI.
-
-
-## [Transylvanian Experimental Neuroscience Summer School (DL:  March 5, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
-*The Pike Lake, Transylvania, Romania ~ June 1 – 19, 2017*
-
-TENSS concentrates top-level international expertise to teach a dozen students techniques and concepts in experimental systems neuroscience. We focus on modern optical and electrophysiological methods to study the connectivity and function of neuronal circuits. The course is designed to be intensive and highly interactive, including both lab sessions and theoretical lectures. Coursework will take place in a land of myth and legend, beyond large forests (Transylvania), on the shores of a picturesque natural reserve called Pike Lake. Applications are welcome from interested (and interesting) graduate students and postdocs.
 
 
 ## [Interacting with neural circuits (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)
@@ -99,6 +107,14 @@ Synapses are the major sites of information processing in the brain. The complex
 *Champalimaud Centre for the Unknown, Portugal ~ August 6 – 26, 2017*
 
 Computational Neuroscience is a rapidly evolving field whose methods and techniques are critical for understanding and modeling the brain, and also for designing and interpreting experiments. Mathematical modeling is one of the few tools available to cut through the vast complexity of neurobiological systems and their many interacting elements.  This school teaches the central ideas, methods, and practice of modern computational neuroscience. Our mission with the course is to train the future generation of both computational and experimental neuroscientists, and to foster theory-driven experimental research. We provide a broad overview of theoretical techniques, from the introductory to the more advanced that are critical for understanding and modeling the brain, and for designing and interpreting experiments. A range of theoretical topics is covered, including cellular biophysics, neural network dynamics, neural coding and computation, statistical analysis of neural data, and behavioral and cognitive aspects of neural function. The course includes a strong hands-on and project-oriented component. Furthermore, the course will be held in Lisbon, Portugal with its many nearby sites and beaches offering ample opportunities to relax/explore during course breaks.
+
+
+## [Summer Workshop on the Dynamic Brain (DL: April 1, 2017)](http://courses.washington.edu/braindyn/)
+*Friday Harbor Laboratories, Washington, US ~ August 19 - September 3, 2017*
+
+This intensive, two-week, projects-based, interdisciplinary course aims to give advanced students in neuroscience, biology, physics, engineering and computer science a rapid introduction to the current state of understanding of the neurobiology of sensory processing, including anatomy, physiology and neural coding.
+
+The workshop will include include data analyses, Python and other software boot-camps, and lectures, taught by faculty from the University of Washington and the Allen Institute for Brain Science, on topics focused on the mammalian cortex and closely associated satellite structures. Lecture topics will include biophysics of cortical neurons, neuroanatomy and neurophysiology of cortex, genomics, neuronal cell types, neuronal development, connectomics, network analysis, voltage- and calcium-dependent brain imaging, theories and modeling of neocortex and associated structures, big data approaches and perceptual neuroscience (with a focus on vision).
 
 
 ## [Summer School in Computational Sensory-Motor Neuroscience (DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)
@@ -121,7 +137,10 @@ Ion channels play a major role in neuronal excitability. Diseases, termed channe
 
 We are organizing a summer course to provide promising young investigators with a comprehensive introduction to state-of-the-art techniques in ion channel study,  including - but not limited - to genetics, electrophysiology, imaging, as well as structure-function and pathophysiological approaches. This 3-week course is a practical “hands-on” introduction to advanced methods in ion channel recording and analysis and will cover sufficient background such that all participants will be able to establish these techniques in their home laboratories. 
 
+## [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ?)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Connectomics/)
+*Bordeaux Neurocampus, France, Portugal ~ October 2 – 21, 2017*
 
+The CAJAL course in Connectomics is an intensive three-week course that guides participants through the theory and practice of state-of the art methods to address pertinent questions in the field of structural/functional connectomics from mice to man. This goal will be achieved through a unique balance of lectures from world-wide experts in their respective fields to experimental demonstrations and hands-on laboratory work in small groups. During the course each participant will become familiar with a range of approaches, ranging from connectivity studies in the brain slice and in vivo in the behaving brain using electrophysiological, calcium imaging, optogenetic, viral trans-synaptic tracing, whole brain clearing and neuroimaging approaches with magnetic resonance imaging (functional and structural imaging) in both mice and human subjects (performed on the participants) and postmortem tissue.
 
 http://www.mbl.edu/education/special-topics-courses/brains-minds-and-machines/
 http://www.mbl.edu/education/special-topics-courses/methods-in-computational-neuroscience/
