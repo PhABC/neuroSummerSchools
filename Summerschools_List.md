@@ -59,7 +59,7 @@ Techniques to record neuronal data from single neurons and population of neurons
 
 
 ## [Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)
-*Marine Biological Laboratory, Chicago, US ~ June 2 - July 31, 2017*
+*Marine Biological Laboratory, Woods Hole, US ~ June 2 - July 31, 2017*
 
 A hallmark of this course is the extensive lab work done in close collaboration with expert faculty. The course is divided into three sections: Electrophysiology, Imaging, and Molecular Neurobiology. These are taught by separate groups of faculty, usually six in each section, and with many guest lecturers. Each section begins with specific training in core laboratory techniques; students then undertake one- to two-week directed or independent projects using the methods they have learned. Didactic lectures are combined with laboratory experience in order to establish a strong conceptual foundation for each section. A typical day has 3 hours of lecture and 10 hours of lab.
 
@@ -69,7 +69,7 @@ The goal of the course is to emphasize the strengths of a multidisciplinary appr
 
 
 ## [Neural Systems & Behavior (DL: February 1, 2017)](http://www.mbl.edu/education/summer-courses/neural-systems-behavior/)
-*Marine Biological Laboratory, Chicago, US ~ June 4 - July 31, 2017*
+*Marine Biological Laboratory, Woods Hole, US ~ June 4 - July 31, 2017*
 
 This course provides broad training in modern approaches to the study of neural mechanisms underlying behavior, perception, and cognition. Through a combination of lectures, exercises, and projects, students investigate neural systems at the molecular, cellular, and organismal levels using state-of-the-art techniques. The eight weeks are divided into two-week cycles, providing participants with an in-depth familiarity with several different experimental model systems. In the first cycle, students study a simple invertebrate model system to develop general experimental skills in electrophysiology, neuroanatomy, and quantitative analysis of physiological and behavioral data. In subsequent cycles, students work on a series of different preparations, providing them with a breadth of knowledge in the field. The list of experimental model systems is updated year-to-year, but always includes a diverse array of vertebrate and invertebrate preparations, chosen to illustrate key concepts and novel techniques in the field. The goal of the course is to expose students to diverse approaches to the investigation of the neural basis of behavior.
 
@@ -117,7 +117,7 @@ TENSS concentrates top-level international expertise to teach a dozen students t
 
 
 ## [Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)
-*Marine Biological Laboratory, Chicago, US ~ July 30 – August 25, 2017*
+*Marine Biological Laboratory, Woods Hole, US ~ July 30 – August 25, 2017*
 
 Animals interact with a complex world, encountering a variety of challenges: They must gather data about the environment, discover useful structures in these data, store and recall information about past events, plan and guide actions, learn the consequences of these actions, etc. These are, in part, computational problems that are solved by networks of neurons, from roughly 100 cells in a small worm to 100 billion in humans. Methods in Computational Neuroscience introduces students to the computational and mathematical techniques that are used to address how the brain solves these problems at levels of neural organization ranging from single membrane channels to operations of the entire brain.
 
@@ -131,7 +131,7 @@ CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Ban
 
 
 ## [Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)
-*Marine Biological Laboratory, Chicago, US ~ August 13 – September 3, 2017*
+*Marine Biological Laboratory, Woods Hole, US ~ August 13 – September 3, 2017*
 
 The basis of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines – is arguably the greatest problem in science and technology. To solve it, we will need to understand how human intelligence emerges from computations in neural circuits, with rigor sufficient to reproduce similar intelligent behavior in machines. Success in this endeavor ultimately will enable us to understand ourselves better, to produce smarter machines, and perhaps even to make ourselves smarter. Today’s AI technologies, such as Watson and Siri, are impressive, but their domain specificity and reliance on vast numbers of labeled examples are obvious limitations; few view this as brain-like or human intelligence. The synergistic combination of cognitive science, neurobiology, engineering, mathematics, and computer science holds the promise to build much more robust and sophisticated algorithms implemented in intelligent machines. The goal of this course is to help produce a community of leaders that is equally knowledgeable in neuroscience, cognitive science, and computer science and will lead the development of true biologically inspired AI.
 
