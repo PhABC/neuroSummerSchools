@@ -6,6 +6,7 @@ Note that some summer shools are free and sometimes even cover all expenses or o
 
 #Index
 - [Neuroscience](#neuroscience)
+  * [[Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)](#-memory-school--dl--8-january--2017---http---wwwcrmcat-en-activities-curs-2016-2017-pages-mathmem-schoolaspx-)
   * [[Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](https://portal.g-node.org/advanced-course-2017/doku.php)](#-advanced-course-on-neural-data-analysis--dl--31-january--2017---https---portalg-nodeorg-advanced-course-2017-dokuphp-)
   * [[Neurobiology (DL: February 1, 2017)](http://www.mbl.edu/education/courses/neurobiology/)](#-neurobiology--dl--february-1--2017---http---wwwmbledu-education-courses-neurobiology--)
   * [[Neural Systems & Behavior (DL: February 1, 2017)](http://www.mbl.edu/education/summer-courses/neural-systems-behavior/)](#-neural-systems---behavior--dl--february-1--2017---http---wwwmbledu-education-summer-courses-neural-systems-behavior--)
@@ -18,13 +19,15 @@ Note that some summer shools are free and sometimes even cover all expenses or o
   * [[Methods in Computational Neuroscience (DL:  March 7, 2017)](http://www.mbl.edu/education/courses/methods-in-computational-neuroscience/)](#-methods-in-computational-neuroscience--dl---march-7--2017---http---wwwmbledu-education-courses-methods-in-computational-neuroscience--)
   * [[Computational Approaches to Memory and Plasticity (DL: March 12, 2016)](https://camp.ncbs.res.in/)](#-computational-approaches-to-memory-and-plasticity--dl--march-12--2016---https---campncbsresin--)
   * [[Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)](#-brains--minds-and-machines--dl--march-14--2017---http---wwwmbledu-education-courses-brains-minds-and-machines--)
+  * [[Computational and Cognitive Neuroscience (CCN) Summer School (DL: March 15, 2017)](http://www.ccnss.org/)](#-computational-and-cognitive-neuroscience--ccn--summer-school--dl--march-15--2017---http---wwwccnssorg--)
   * [[Interacting with neural circuits (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)](#-interacting-with-neural-circuits--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-interacting-with-neural-circuits--)
   * [[Advanced Techniques for Synapse Biology (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/ATSB2017/)](#-advanced-techniques-for-synapse-biology--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-atsb2017--)
   * [[CAJAL Course in Computational Neuroscience (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/CCCN2017/)](#-cajal-course-in-computational-neuroscience--dl---march-20--2017---http---wwwfensorg-training-cajal-programme-cajal-courses-2017-cccn2017--)
   * [[Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)](#-summer-workshop-on-the-dynamic-brain--dl--april-1st--2017---http---courseswashingtonedu-braindyn--)
   * [[Summer School in Computational Sensory-Motor Neuroscience (DL:  April 11, 2016)](http://www.compneurosci.com/CoSMo/)](#-summer-school-in-computational-sensory-motor-neuroscience--dl---april-11--2016---http---wwwcompneuroscicom-cosmo--)
   * [[Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](https://crcns.org/course)](#-berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data--dl--end-april--2016---https---crcnsorg-course-)
-  * [[VI Latin American School on Computational Neuroscience (DL : September, 2016)](http://www.nncn.de/en/study-training-options/Kurse)](#-vi-latin-american-school-on-computational-neuroscience--dl---september--2016---http---wwwnncnde-en-study-training-options-kurse-)
+  * [[Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)](#-summer-course-on-computational-neuroscience--dl--june-24--2017---http---wwwbccn-goettingende-events-cns-course-)
+  * [[Latin American School on Computational Neuroscience (LACONEU) (DL : September 30th, 2017)](http://www.laconeu.cl/)](#-latin-american-school-on-computational-neuroscience--laconeu---dl---september-30th--2017---http---wwwlaconeucl--)
   * [[School on Neurotechniques (DL: ???)](http://www.vassanellilab.eu/school-neurotechniques/school-neurotechniques-2016/)](#-school-on-neurotechniques--dl--------http---wwwvassanellilabeu-school-neurotechniques-school-neurotechniques-2016--)
   * [[Ion channels in the brain in health and disease (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)](#-ion-channels-in-the-brain-in-health-and-disease--dl--------http---wwwfensorg-training-cajal-programme-cajal-courses-2017-ion-channels--)
   * [[Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Connectomics/)](#-connectomics--from-micro--to-meso--and-macro-scales--dl--------http---wwwfensorg-training-cajal-programme-cajal-courses-2017-connectomics--)
@@ -37,6 +40,7 @@ Note that some summer shools are free and sometimes even cover all expenses or o
   * [[Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)](#-advanced-scientific-programming-in-python--dl--------https---pythong-nodeorg-wiki--)
 
 
+<> (Automatic table of content generation ; http://ecotrust-canada.github.io/markdown-toc/)
 
 # Neuroscience 
 
