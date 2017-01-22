@@ -42,8 +42,14 @@ Note that some summer shools are free and sometimes even cover all expenses or o
 
 <img src="https://www.janelia.org/sites/default/files/Labs/Spruston%20Lab/Spruston_Research.jpg" 'Nelson Spruston Lab' width="900" height="400">
 
+## [Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)
+*Centre de Recerca Matemàtica, Barcelona, Spain ~ January 16 - 20, 2017*
+
+This is a week-long intensive school on the biology and mathematics of memory. Topics covered will be: synaptic plasticity, memory recall and consolidation, hippocampal and cortical models and more. This school is appropriate for graduate students, post-doctoral researchers and advanced researchers.
+
+
 ## [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](https://portal.g-node.org/advanced-course-2017/doku.php)
-*Juelich, Germany ~ March 26 - April 8 2017*
+*Juelich, Germany ~ March 26 - April 8, 2017*
 
 Techniques to record neuronal data from single neurons and population of neurons are rapidly improving. Meanwhile recordings are possible from hundreds of channels simultaneously while animals perform complex tasks. Thus also the analysis of such data becomes increasingly challenging. This advanced course aims at providing deeper insights in state-of-the-art questions in neuroscience, analysis approaches and how to formalize questions to neuronal data so they can be answered quantitatively.
 
@@ -126,6 +132,12 @@ CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Ban
 The basis of intelligence – how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines – is arguably the greatest problem in science and technology. To solve it, we will need to understand how human intelligence emerges from computations in neural circuits, with rigor sufficient to reproduce similar intelligent behavior in machines. Success in this endeavor ultimately will enable us to understand ourselves better, to produce smarter machines, and perhaps even to make ourselves smarter. Today’s AI technologies, such as Watson and Siri, are impressive, but their domain specificity and reliance on vast numbers of labeled examples are obvious limitations; few view this as brain-like or human intelligence. The synergistic combination of cognitive science, neurobiology, engineering, mathematics, and computer science holds the promise to build much more robust and sophisticated algorithms implemented in intelligent machines. The goal of this course is to help produce a community of leaders that is equally knowledgeable in neuroscience, cognitive science, and computer science and will lead the development of true biologically inspired AI.
 
 
+## [Computational and Cognitive Neuroscience (CCN) Summer School (DL: March 15, 2017)](http://www.ccnss.org/)
+*NYU Shanghai, Shanghai, China ~ July 6 – 29, 2017*
+
+esigned to emphasize higher cognitive functions and their underlying neural circuit mechanisms, the course aims at training talented and highly motivated students and postdoctoral fellows from Asia and other countries across the world. Applicants with quantitative (including Physics, Mathematics, Engineering and Computer Science) or experimental background are welcomed. The lectures will introduce the basic concepts and methods, as well as cutting-edge research on higher brain functions such as decision-making, attention, learning and memory. Modeling will be taught at multiple levels, ranging from single neuron computation, microcircuits and large-scale systems, to normative theoretical approach. Python-based programming labs coordinated with the lectures will provide practical training in important computational methods.
+
+
 ## [Interacting with neural circuits (DL:  March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)
 *Champalimaud Centre for the Unknown, Portugal ~ July 2 – 22, 2017*
 
@@ -162,6 +174,12 @@ This unique summer school focuses on computational techniques integrating the mu
 _Redwood Center for Theoretical Neuroscience, UC Berkeley, US ~ July 11 - 22, **2016**_
 
 This course is for students and researchers with backgrounds in mathematics and computational sciences who are interested in applying their skills toward problems in neuroscience. It will introduce the major open questions of neuroscience and teach state-of–the-art techniques for analyzing and modeling neuroscience data sets. The course is designed for students at the graduate level and researchers with background in a quantitative field such as engineering, mathematics, physics or computer science who may or may not have a specific neuroscience background. The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience. The course is sponsored by the National Institute of Health, the National Science Foundation from a grant supporting activities at the data sharing repository CRCNS.org, and the Helen Wills Neuroscience Institute.
+
+
+## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
+*Gôttingen, Germany ~ September 6 - 16, 2017*
+
+The school consists of consecutive two day thematic blocks dedicated to a particular theoretical approach to neural circuit dynamics. Each lecturer will give a self-contained introduction to his/her particular theoretical approach in two sets of morning lectures. In the afternoon, participants will work on problem sets designed to develop proficiency in these theoretical tools and approaches, for an in-depth understanding of the mathematical techniques presented earlier that day. Every second day, participants will present the results of their problems sets followed by a closing discussion lead by the lecturer in charge. A laid back style evening lecture by a senior scientist will take place right after that.
 
 
 ## [VI Latin American School on Computational Neuroscience (DL : September, 2016)](http://www.nncn.de/en/study-training-options/Kurse)
