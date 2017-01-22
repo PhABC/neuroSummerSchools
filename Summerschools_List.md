@@ -36,6 +36,8 @@ Note that some summer shools are free and sometimes even cover all expenses or o
   * [[Deep Learning Summer School (DL: April 11, 2016)](https://sites.google.com/site/deeplearningsummerschool2016/applications)](#-deep-learning-summer-school--dl--april-11--2016---https---sitesgooglecom-site-deeplearningsummerschool2016-applications-)
   * [[Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)](#-advanced-scientific-programming-in-python--dl--------https---pythong-nodeorg-wiki--)
 
+
+
 # Neuroscience 
 
 <img src="https://www.janelia.org/sites/default/files/Labs/Spruston%20Lab/Spruston_Research.jpg" 'Nelson Spruston Lab' width="900" height="400">
