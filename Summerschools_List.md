@@ -40,7 +40,7 @@ Note that some summer shools are free and sometimes even cover all expenses or o
   * [[Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)](#-advanced-scientific-programming-in-python--dl--------https---pythong-nodeorg-wiki--)
 
 
-<> (Automatic table of content generation ; http://ecotrust-canada.github.io/markdown-toc/)
+[//]: # (Automatic table of content generation ; http://ecotrust-canada.github.io/markdown-toc/)
 
 # Neuroscience 
 
