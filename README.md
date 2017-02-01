@@ -200,6 +200,12 @@ _University of Padua – Italy ~ 15 – 19 February, **2016**_
 Investigating information processing and identifying operational rules of brain neural circuits relies on the capability to selectively record and stimulate multiple neurons within a network. The toolbox of available techniques conceived to meet this need is rapidly expanding.The CSN School on Neurotechniques 2016 will offer an overview on advanced electrical- and light-based recording methods of neuronal excitability, focusing on those that are most relevant for the investigation of neural networks ‘in vitro’ and ‘in vivo’ and for application in neuroprosthetics. Methods and protocols on laboratory techniques and signal analysis  will be presented.
 
 
+## [Connectivité multimodale ; de la théorie aux applications (DL: ???)](http://www.cinq.ulaval.ca/cole-dt-2017)
+*Domaine Cataraqui, Québec, Canada ~ May 15 – 16, 2017*
+
+L'École d'Été 2017, offrira une formation théorique et pratique de base sur les analyses de connectivité appliqués à des données de différents types tels que l'EEG/MEG et l'IRM. L'École se déroule sur deux jours : une première journée sera dédiée à la formation pratique et accueillera plusieurs conférenciers et la deuxième journée sera consacrée à une formation pratique sous forme d'ateliers. L'École d'été aura lieu les lundi et mardi 15 et 16 mai 2017 en journée, au Domaine Cataraqui. Les participants auront la possibilité d'assister qu'à la journée théorique (première journée) ou de participer aux deux journées.
+
+
 ## [Ion channels in the brain in health and disease (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)
 *Bordeaux Neurocampus, France ~ September 4 – 22, 2017*
 
