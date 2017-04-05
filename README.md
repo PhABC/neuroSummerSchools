@@ -6,7 +6,8 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 
 
-# Table of Contents- [Neuroscience](#neuroscience)
+# Table of Contents
+- [Neuroscience](#neuroscience)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
   * [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](#advanced-course-on-neural-data-analysis-dl-31-january-2017)
   * [Neurobiology (DL: February 1, 2017)](#neurobiology-dl-february-1-2017)

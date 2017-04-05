@@ -30,6 +30,6 @@ if __name__ == '__main__':
                 pre = '  * '
             table_of_contents.append(pre + '[' + header + ']' + tag + '\n')
 
-    f_added = lines[0:intro_index] + ['\n'] + ['# Table of Contents'] + table_of_contents + ['\n'] + lines[content_index-1::]
-    output_file = open('new_readme.md', 'w')
+    f_added = lines[0:intro_index] + ['\n'] + ['# Table of Contents\n'] + table_of_contents + ['\n'] + lines[content_index-1::]
+    output_file = open('README.md', 'w')
     output_file.write("".join(f_added))
