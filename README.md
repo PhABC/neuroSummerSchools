@@ -5,7 +5,6 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 **Note** that some summer schools are free and sometimes even cover all expenses or offer grants for those in need.
 
 
-
 # Table of Contents
 - [Neuroscience](#neuroscience)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
@@ -200,6 +199,14 @@ This unique summer school focuses on computational techniques integrating the mu
 _Redwood Center for Theoretical Neuroscience, UC Berkeley, US ~ July 11 - 22, **2016**_
 
 This course is for students and researchers with backgrounds in mathematics and computational sciences who are interested in applying their skills toward problems in neuroscience. It will introduce the major open questions of neuroscience and teach state-of–the-art techniques for analyzing and modeling neuroscience data sets. The course is designed for students at the graduate level and researchers with background in a quantitative field such as engineering, mathematics, physics or computer science who may or may not have a specific neuroscience background. The goal of this summer course is to help researchers find new exciting research areas and at the same time to strengthen quantitative expertise in the field of neuroscience. The course is sponsored by the National Institute of Health, the National Science Foundation from a grant supporting activities at the data sharing repository CRCNS.org, and the Helen Wills Neuroscience Institute.
+
+
+## [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](https://www.neuron.yale.edu/neuron/static/courses/summer2017/summer2017.html)
+*Wright State University, Fairborn, Ohio, US ~ June 5 - 10, 2017*
+
+This intensive multi-day course is designed for those who are planning to use NEURON in neuroscience research or teaching, or already have active modeling projects that involve NEURON. It presents what you need to know to build and work with models of individual neurons and networks of neurons.
+
+This course is suitable for users at all levels of expertise.
 
 
 ## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
