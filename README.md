@@ -5,6 +5,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 **Note** that some summer schools are free and sometimes even cover all expenses or offer grants for those in need.
 
 
+
 # Table of Contents
 - [Neuroscience](#neuroscience)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
@@ -25,10 +26,11 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Advanced Techniques for Synapse Biology (DL: March 20, 2017)](#advanced-techniques-for-synapse-biology-dl-march-20-2017)
   * [CAJAL Course in Computational Neuroscience (DL: March 20, 2017)](#cajal-course-in-computational-neuroscience-dl-march-20-2017)
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
+  * [NRSN Summer School in Neuroscience : Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-neural-circuits-and-behavior-dl-april-3rd-2017)
   * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensorymotor-neuroscience-dl-april-11-2016)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
+  * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl-may-15-2017)
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
-  * [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](#summer-school-in-image-based-biomedical-modeling-dl-may-20-2017)
   * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2017)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
   * [{FR} Connectivité multimodale ; de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
@@ -40,6 +42,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [The Machine Learning Summer School (DL: Feburary 17, 2017) ](#the-machine-learning-summer-school-dl-feburary-17-2017)
   * [VISion Understanding and Machine intelligence (DL: April 8, 2017)](#vision-understanding-and-machine-intelligence-dl-april-8-2017)
   * [Deep Learning Summer School (DL: April 11, 2016)](#deep-learning-summer-school-dl-april-11-2016)
+  * [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](#summer-school-in-image-based-biomedical-modeling-dl-may-20-2017)
   * [Advanced Scientific Programming in Python (DL: ???)](#advanced-scientific-programming-in-python-dl-)
 
 
