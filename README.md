@@ -173,12 +173,6 @@ _University of Minnesota, Minneapolis, MN, USA ~ July 30 - August 13, **2017**_
 
 This unique summer school focuses on computational techniques integrating the multi-disciplinary nature of sensory-motor neuroscience through combined empirical-theoretical teaching modules and makes use of databases of movement data (NSF CRCNS). Major breakthroughs in brain research have been achieved through computational models. The goal of the Summer School in Computational Sensory-Motor Neuroscience is to provide cross-disciplinary training in mathematical modeling techniques relevant to understanding brain function, dysfunction and treatment. In a unique approach bridging experimental research, clinical pathology and computer simulations, students will learn how to translate ideas and empirical findings into mathematical models. Students will gain a profound understanding of the brain’s working principles and diseases using advanced modeling techniques in hands-on simulations of models during tutored sessions by making use of data / model sharing. This summer school aims at propelling promising students into world-class researchers.
 
-## [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](http://ibbm.sci.utah.edu)
-_Park City, SCI Institute, University of Utah, UT, USA ~ July 10-20, **2017**_
-
-This two-week course offers field-specific expertise and hands-on experience solving bioelectric or biomechanical problems that arise in current biomedical research and clinical practice. Participants will receive training in numerical methods, image analysis, and computational tools necessary to carry out end-to-end, image based, subject specific simulations in bioelectricity or biomechanics, using freely available software. The course also offers keynote presentations by internationally known speakers as well as career related sessions on topics like Integrity in Research, Simulation Based Research Strategies, and a Grants and Funding in Science. The course is set in the beautiful setting of Park City, UT, with endless hiking, biking and mountain living experiences directly accessible. 
-
-
 
 ## [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](https://crcns.org/course)
 _Redwood Center for Theoretical Neuroscience, UC Berkeley, US ~ July 11 - 22, **2016**_
@@ -267,6 +261,13 @@ _University of Montreal, Montreal, Canada ~ August 1-7, **2016**_
 Deep neural networks that learn to represent data in multiple layers of increasing abstraction have dramatically improved the state-of-the-art for speech recognition, object recognition, object detection, predicting the activity of drug molecules, and many other tasks. Deep learning discovers intricate structure in large datasets by building distributed representations, either via supervised, unsupervised or reinforcement learning.
 
 This summer schools is aimed at graduate students and industrial engineers and researchers who already have some basic knowledge of machine learning (and possibly but not necessarily of deep learning) and wish to learn more about this rapidly growing field of research.
+
+
+## [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](http://ibbm.sci.utah.edu)
+_Park City, SCI Institute, University of Utah, UT, USA ~ July 10-20, **2017**_
+
+This two-week course offers field-specific expertise and hands-on experience solving bioelectric or biomechanical problems that arise in current biomedical research and clinical practice. Participants will receive training in numerical methods, image analysis, and computational tools necessary to carry out end-to-end, image based, subject specific simulations in bioelectricity or biomechanics, using freely available software. The course also offers keynote presentations by internationally known speakers as well as career related sessions on topics like Integrity in Research, Simulation Based Research Strategies, and a Grants and Funding in Science. The course is set in the beautiful setting of Park City, UT, with endless hiking, biking and mountain living experiences directly accessible. 
+
 
 ## [Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)
 *Reading, UK ~ September 5-10, 2016*
