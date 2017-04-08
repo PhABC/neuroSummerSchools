@@ -160,12 +160,34 @@ Synapses are the major sites of information processing in the brain. The complex
 Computational Neuroscience is a rapidly evolving field whose methods and techniques are critical for understanding and modeling the brain, and also for designing and interpreting experiments. Mathematical modeling is one of the few tools available to cut through the vast complexity of neurobiological systems and their many interacting elements.  This school teaches the central ideas, methods, and practice of modern computational neuroscience. Our mission with the course is to train the future generation of both computational and experimental neuroscientists, and to foster theory-driven experimental research. We provide a broad overview of theoretical techniques, from the introductory to the more advanced that are critical for understanding and modeling the brain, and for designing and interpreting experiments. A range of theoretical topics is covered, including cellular biophysics, neural network dynamics, neural coding and computation, statistical analysis of neural data, and behavioral and cognitive aspects of neural function. The course includes a strong hands-on and project-oriented component. Furthermore, the course will be held in Lisbon, Portugal with its many nearby sites and beaches offering ample opportunities to relax/explore during course breaks.
 
 
+## Computational Neuroscience: Vision (DL : March 31st, 
+
+
 ## [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)
 *Friday Harbor Laboratories, Washington, US ~ August 19 - September 3, 2017*
 
 This intensive, two-week, projects-based, interdisciplinary course aims to give advanced students in neuroscience, biology, physics, engineering and computer science a rapid introduction to the current state of understanding of the neurobiology of sensory processing, including anatomy, physiology and neural coding.
 
 The workshop will include include data analyses, Python and other software boot-camps, and lectures, taught by faculty from the University of Washington and the Allen Institute for Brain Science, on topics focused on the mammalian cortex and closely associated satellite structures. Lecture topics will include biophysics of cortical neurons, neuroanatomy and neurophysiology of cortex, genomics, neuronal cell types, neuronal development, connectomics, network analysis, voltage- and calcium-dependent brain imaging, theories and modeling of neocortex and associated structures, big data approaches and perceptual neuroscience (with a focus on vision).
+
+
+[Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](http://ine-web.org/telluride/)
+*Telluride, Colorado, US ~ June 25th - July 16th, 2017*
+
+Neuromorphic engineers design and fabricate artificial neural systems whose organizing principles are based on those of biological nervous systems. Over the past 18 years, this research community has focused on the understanding of low-level sensory processing and systems infrastructure; efforts are now expanding to apply this knowledge and infrastructure to addressing higher-level problems in perception, cognition, and learning. In this 3-week intensive workshop and through the Institute for Neuromorphic Engineering (INE), the mission is to promote interaction between senior and junior researchers; to educate new members of the community; to introduce new enabling fields and applications to the community; to promote on-going collaborative activities emerging from the Workshop, and to promote a self-sustaining research field. *The 2017 workshop will be focused on the theme of Neuromorphic Autonomous Agents.*
+
+
+## [NRSN Summer School in Neuroscience : Neural Circuits and Behavior (DL: April 3rd, 2017)](https://www.ntnu.edu/documents/21631968/0/2017+Summer+School+NTNU/6a6987ca-aeba-4294-a762-354a022c19b4)
+*Kavli Institute for Systems Neuroscience, NTNU, Trondheim, Norway ~ August 13 - 19, 2017*
+
+Our goal is to bring together a wide range of experts in diverse approaches from electrical and optical
+measurements of brain activity to molecular, anatomical, behavioral and computational tools to study the
+function of brain circuits. We aim to show students the application of these wide ranges of techniques in a
+range of model species including rodents, zebrafish, flies, and humans.
+
+We will also discuss about the advantages of these techniques, their potential pitfalls and how they can be
+synergistically combined. In addition to lectures, research talks and journal club sessions, the course will
+provide practical experience through demos and hands on training. Moreover, we will have group discussions and students’ presentations for combining the theoretical and the practical parts of the course.
 
 
 ## [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](http://www.compneurosci.com/CoSMo/)
