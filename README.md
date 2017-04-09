@@ -174,7 +174,7 @@ In one way the course is structured by introducing the students the different le
 
 
 ## [Computational Neuroscience: Vision (DL : March 31st, 2016)](https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=16)
-*Cold Spring Harbor, NY, US ~ July 11 - 14, **2016**_
+_Cold Spring Harbor, NY, US ~ July 11 - 14, **2016**_
 
 Computational approaches to neuroscience will produce important advances in our understanding of neural processing. Prominent success will come in areas where strong inputs from neurobiological, behavioral and computational investigation can interact. The theme of the course is that an understanding of the computational problems, the constraints on solutions to these problems, and the range of possible solutions can help guide research in neuroscience. Through a combination of lectures and hands-on experience with MATLAB-based computer tutorials and projects, this intensive course will examine visual information processing from the retina to higher cortical areas, spatial pattern analysis, motion analysis, neuronal coding and decoding, attention, and decision-making. 
 
