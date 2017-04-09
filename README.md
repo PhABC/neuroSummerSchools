@@ -8,6 +8,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 
 
+
 # Table of Contents
 - [Neuroscience](#neuroscience)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
@@ -27,7 +28,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Interacting with neural circuits (DL: March 20, 2017)](#interacting-with-neural-circuits-dl-march-20-2017)
   * [Advanced Techniques for Synapse Biology (DL: March 20, 2017)](#advanced-techniques-for-synapse-biology-dl-march-20-2017)
   * [CAJAL Course in Computational Neuroscience (DL: March 20, 2017)](#cajal-course-in-computational-neuroscience-dl-march-20-2017)
-  * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#-sysneuron-on-system--computational-neuroscience---neurodynamics-summer-school--dl---march-30--2017---http---sysneuro-semesterorg--)
+  * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-on-system-computational-neuroscience--neurodynamics-summer-school-dl-march-30-2017)
   * [Computational Neuroscience Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
   * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl-april-2nd-2017)
