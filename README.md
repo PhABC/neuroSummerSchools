@@ -30,6 +30,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensorymotor-neuroscience-dl-april-11-2016)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
   * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl-may-15-2017)
+  * [G-Node Course on Neural Data Analysis (DL: May 15, 2017)](#g-node-course-on-neural-data-analysis-dl-may-15-2017)
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
   * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2017)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
@@ -210,6 +211,12 @@ This course is for students and researchers with backgrounds in mathematics and 
 This intensive multi-day course is designed for those who are planning to use NEURON in neuroscience research or teaching, or already have active modeling projects that involve NEURON. It presents what you need to know to build and work with models of individual neurons and networks of neurons.
 
 This course is suitable for users at all levels of expertise.
+
+
+## [G-Node Course on Neural Data Analysis (DL : May 15, 2017)](http://www.g-node.org/dataanalysis-course-2017)
+*Munich, Germany ~ July 31 - August 4, 2017*
+
+The German Neuroinformatics Node (G-Node) organizes its eighth international one-week course on neural data analysis (formerly known as the G-Node Winter Course) at the LMU in Munich. The course offers hands-on experience in state-of-the-art methods for analyzing complex neural data to PhD students and postdocs from theoretical or experimental backgrounds. Applicants should have an elementary understanding of linear algebra and statistics, as well as basic programming knowledge in either Matlab or Python.
 
 
 ## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
