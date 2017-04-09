@@ -7,6 +7,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 
 
+
 # Table of Contents
 - [Neuroscience](#neuroscience)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
@@ -26,10 +27,11 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Interacting with neural circuits (DL: March 20, 2017)](#interacting-with-neural-circuits-dl-march-20-2017)
   * [Advanced Techniques for Synapse Biology (DL: March 20, 2017)](#advanced-techniques-for-synapse-biology-dl-march-20-2017)
   * [CAJAL Course in Computational Neuroscience (DL: March 20, 2017)](#cajal-course-in-computational-neuroscience-dl-march-20-2017)
-  * [SysNeuron: System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-system-computational-neuroscience--neurodynamics-summer-school-dl-march-30-2017)
-  * [Computational Neuroscience: Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
+  * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-on-system-computational-neuroscience--neurodynamics-summer-school-dl-march-30-2017)
+  * [Computational Neuroscience  Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
-  * [NRSN Summer School in Neuroscience : Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-neural-circuits-and-behavior-dl-april-3rd-2017)
+  * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl-april-2nd-2017)
+  * [NRSN Summer School in Neuroscience on Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-on-neural-circuits-and-behavior-dl-april-3rd-2017)
   * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensorymotor-neuroscience-dl-april-11-2016)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
   * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl-may-15-2017)
@@ -37,7 +39,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
   * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2017)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
-  * [{FR} Connectivité multimodale ; de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
+  * [{FR} Connectivité multimodale, de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
   * [Ion channels in the brain in health and disease (DL: ???)](#ion-channels-in-the-brain-in-health-and-disease-dl-)
   * [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](#connectomics-from-micro-to-meso-and-macroscales-dl-)
 - [Related Fields (modeling, machine learning, etc.)](#related-fields-modeling-machine-learning-etc)
