@@ -28,7 +28,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Advanced Techniques for Synapse Biology (DL: March 20, 2017)](#advanced-techniques-for-synapse-biology-dl-march-20-2017)
   * [CAJAL Course in Computational Neuroscience (DL: March 20, 2017)](#cajal-course-in-computational-neuroscience-dl-march-20-2017)
   * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-on-system-computational-neuroscience--neurodynamics-summer-school-dl-march-30-2017)
-  * [Computational Neuroscience  Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
+  * [Computational Neuroscience Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
   * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl-april-2nd-2017)
   * [NRSN Summer School in Neuroscience on Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-on-neural-circuits-and-behavior-dl-april-3rd-2017)
@@ -175,7 +175,7 @@ The Systems Neuroscience program follows the approach of systems theory in under
 In one way the course is structured by introducing the students the different levels of organization all being complex systems themselves. We start with molecular machineries at the subcellular level (course A.I.) then turn into the cellular level by learning why the neuron is considered as the unit of brain organization (course A.II.). In the next step it is shown how the milliards of neurons make up the cerebral cortex and how this evolutionarily new structure can perform diverse cognitive and other functions (course A.II.). Finally, whole brain functions and functioning will be approached via its role in behavior (course C.I.).
 
 
-## [Computational Neuroscience  Vision (DL : March 31st, 2016)](https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=16)
+## [Computational Neuroscience Vision (DL : March 31st, 2016)](https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=16)
 _Cold Spring Harbor, NY, US ~ July 11 - 14, **2016**_
 
 Computational approaches to neuroscience will produce important advances in our understanding of neural processing. Prominent success will come in areas where strong inputs from neurobiological, behavioral and computational investigation can interact. The theme of the course is that an understanding of the computational problems, the constraints on solutions to these problems, and the range of possible solutions can help guide research in neuroscience. Through a combination of lectures and hands-on experience with MATLAB-based computer tutorials and projects, this intensive course will examine visual information processing from the retina to higher cortical areas, spatial pattern analysis, motion analysis, neuronal coding and decoding, attention, and decision-making. 
