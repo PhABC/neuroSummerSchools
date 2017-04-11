@@ -38,7 +38,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl-may-15-2017)
   * [G-Node Course on Neural Data Analysis (DL : May 15, 2017)](#gnode-course-on-neural-data-analysis-dl-may-15-2017)
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
-  * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2017)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
+  * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
   * [{FR} Connectivité multimodale, de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
   * [Ion channels in the brain in health and disease (DL: ???)](#ion-channels-in-the-brain-in-health-and-disease-dl-)
@@ -242,7 +242,7 @@ The German Neuroinformatics Node (G-Node) organizes its eighth international one
 The school consists of consecutive two day thematic blocks dedicated to a particular theoretical approach to neural circuit dynamics. Each lecturer will give a self-contained introduction to his/her particular theoretical approach in two sets of morning lectures. In the afternoon, participants will work on problem sets designed to develop proficiency in these theoretical tools and approaches, for an in-depth understanding of the mathematical techniques presented earlier that day. Every second day, participants will present the results of their problems sets followed by a closing discussion lead by the lecturer in charge. A laid back style evening lecture by a senior scientist will take place right after that.
 
 
-## [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2017)](http://www.laconeu.cl/)
+## [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](http://www.laconeu.cl/)
 _Valparaiso, Chile ~ January 9 – 27, 2017_
 
 The principal aim of LACONEU2017: 4th Latin-American Summer School in Computational Neuroscience is to promote in Latin America the field of Computational Neuroscience through cutting edge mathematical and computational science tools and its applications in Biomedical Research and Clinical Application. The multidisciplinary study of brain function using neuroscience, mathematics and computational approaches helps to a better understanding of brain functionalities under normal or pathological states, as well as, to enhance important advances in education, theoretical frameworks, brain imaging, and biomedical therapies
