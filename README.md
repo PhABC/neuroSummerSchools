@@ -181,6 +181,16 @@ _Cold Spring Harbor, NY, US ~ July 11 - 14, **2016**_
 Computational approaches to neuroscience will produce important advances in our understanding of neural processing. Prominent success will come in areas where strong inputs from neurobiological, behavioral and computational investigation can interact. The theme of the course is that an understanding of the computational problems, the constraints on solutions to these problems, and the range of possible solutions can help guide research in neuroscience. Through a combination of lectures and hands-on experience with MATLAB-based computer tutorials and projects, this intensive course will examine visual information processing from the retina to higher cortical areas, spatial pattern analysis, motion analysis, neuronal coding and decoding, attention, and decision-making.
 
 
+## [Microelectrode Techniques for Cell Physiology (DL: March 31st, 2017)](https://www.mba.ac.uk/microelectrode-techniques-cell-physiology)
+*Plymouth, United-Kingdom ~ August 30 - September 13, 2017*
+
+A variety of marine and other preparations will be used to illustrate the possibilities and limitations of the following techniques ; 
+
+*Electronics, Patch clamp, Intracellular injection, Slice recording, Optogenetics, Voltage clamp, Ion-sensitive electrodes, Fluorescent indicators, Photolysis, Multielectrode Arrays, Amperometry & Transgenic labelling.*
+
+The workshop is intended mainly for postgraduate students and postdoctoral workers from any discipline who wish to learn these techniques for use in their research. 
+
+
 ## [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)
 *Friday Harbor Laboratories, Washington, US ~ August 19 - September 3, 2017*
 
