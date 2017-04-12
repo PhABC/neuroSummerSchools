@@ -28,31 +28,30 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Interacting with neural circuits (DL: March 20, 2017)](#interacting-with-neural-circuits-dl-march-20-2017)
   * [Advanced Techniques for Synapse Biology (DL: March 20, 2017)](#advanced-techniques-for-synapse-biology-dl-march-20-2017)
   * [CAJAL Course in Computational Neuroscience (DL: March 20, 2017)](#cajal-course-in-computational-neuroscience-dl-march-20-2017)
-  * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-on-system-computational-neuroscience-neurodynamics-summer-school-dl-march-30-2017)
-  * [Computational Neuroscience Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl-march-31st-2016)
+  * [SysNeuron on System, Computational Neuroscience & Neurodynamics Summer School (DL : March 30, 2017)](#sysneuron-on-system-computational-neuroscience--neurodynamics-summer-school-dl--march-30-2017)
+  * [Computational Neuroscience Vision (DL : March 31st, 2016)](#computational-neuroscience-vision-dl--march-31st-2016)
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
-  * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl-april-2nd-2017)
+  * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl--april-2nd-2017)
   * [NRSN Summer School in Neuroscience on Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-on-neural-circuits-and-behavior-dl-april-3rd-2017)
-  * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensorymotor-neuroscience-dl-april-11-2016)
+  * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensory-motor-neuroscience-dl-april-11-2016)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
-  * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl-may-15-2017)
-  * [G-Node Course on Neural Data Analysis (DL : May 15, 2017)](#gnode-course-on-neural-data-analysis-dl-may-15-2017)
+  * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl--may-15-2017)
+  * [G-Node Course on Neural Data Analysis (DL : May 15, 2017)](#g-node-course-on-neural-data-analysis-dl--may-15-2017)
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
-  * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2017)
+  * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2016)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
   * [{FR} Connectivité multimodale, de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
   * [Ion channels in the brain in health and disease (DL: ???)](#ion-channels-in-the-brain-in-health-and-disease-dl-)
-  * [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](#connectomics-from-micro-to-meso-and-macroscales-dl-)
+  * [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](#connectomics-from-micro--to-meso--and-macro-scales-dl-)
 - [Related Fields (modeling, machine learning, etc.)](#related-fields-modeling-machine-learning-etc)
   * [Complexity Summer School List](#complexity-summer-school-list)
-  * [Connecting Biological Data with Mathematical Modelsl (DL: Feburary 3, 2017) ](#connecting-biological-data-with-mathematical-modelsl-dl-feburary-3-2017)
-  * [The Machine Learning Summer School (DL: Feburary 17, 2017) ](#the-machine-learning-summer-school-dl-feburary-17-2017)
+  * [Connecting Biological Data with Mathematical Modelsl (DL: Feburary 3, 2017) ](#connecting-biological-data-with-mathematical-modelsl-dl-feburary-3-2017-)
+  * [The Machine Learning Summer School (DL: Feburary 17, 2017) ](#the-machine-learning-summer-school-dl-feburary-17-2017-)
   * [VISion Understanding and Machine intelligence (DL: April 8, 2017)](#vision-understanding-and-machine-intelligence-dl-april-8-2017)
   * [Deep Learning Summer School (DL: April 11, 2016)](#deep-learning-summer-school-dl-april-11-2016)
   * [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](#summer-school-in-image-based-biomedical-modeling-dl-may-20-2017)
-  * [Advanced Scientific Programming in Python (DL: ???)](#advanced-scientific-programming-in-python-dl-) 
-  * [Twelfth Madrid UPM Advanced Statistics and Data Mining Summer School (DL: June 5th, 2017)](#madrid-upm-advanced-statistics-and-data-mining-summer-school-dl-june-5th-2017) 
-
+  * [Twelfth Madrid UPM Advanced Statistics and Data Mining Summer School (DL: June 5th, 2017)](#twelfth-madrid-upm-advanced-statistics-and-data-mining-summer-school-dl-june-5th-2017)
+  * [Advanced Scientific Programming in Python (DL: ???)](#advanced-scientific-programming-in-python-dl-)
 
 # Neuroscience
 
@@ -174,7 +173,7 @@ In one way the course is structured by introducing the students the different le
 ## [Computational Neuroscience Vision (DL : March 31st, 2016)](https://meetings.cshl.edu/courses.aspx?course=C-VISI&year=16)
 _Cold Spring Harbor, NY, US ~ July 11 - 14, **2016**_
 
-Computational approaches to neuroscience will produce important advances in our understanding of neural processing. Prominent success will come in areas where strong inputs from neurobiological, behavioral and computational investigation can interact. The theme of the course is that an understanding of the computational problems, the constraints on solutions to these problems, and the range of possible solutions can help guide research in neuroscience. Through a combination of lectures and hands-on experience with MATLAB-based computer tutorials and projects, this intensive course will examine visual information processing from the retina to higher cortical areas, spatial pattern analysis, motion analysis, neuronal coding and decoding, attention, and decision-making. 
+Computational approaches to neuroscience will produce important advances in our understanding of neural processing. Prominent success will come in areas where strong inputs from neurobiological, behavioral and computational investigation can interact. The theme of the course is that an understanding of the computational problems, the constraints on solutions to these problems, and the range of possible solutions can help guide research in neuroscience. Through a combination of lectures and hands-on experience with MATLAB-based computer tutorials and projects, this intensive course will examine visual information processing from the retina to higher cortical areas, spatial pattern analysis, motion analysis, neuronal coding and decoding, attention, and decision-making.
 
 
 ## [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)
@@ -322,7 +321,7 @@ This summer schools is aimed at graduate students and industrial engineers and r
 ## [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](http://ibbm.sci.utah.edu)
 _Park City, SCI Institute, University of Utah, UT, USA ~ July 10-20, **2017**_
 
-This two-week course offers field-specific expertise and hands-on experience solving bioelectric or biomechanical problems that arise in current biomedical research and clinical practice. Participants will receive training in numerical methods, image analysis, and computational tools necessary to carry out end-to-end, image based, subject specific simulations in bioelectricity or biomechanics, using freely available software. The course also offers keynote presentations by internationally known speakers as well as career related sessions on topics like Integrity in Research, Simulation Based Research Strategies, and a Grants and Funding in Science. The course is set in the beautiful setting of Park City, UT, with endless hiking, biking and mountain living experiences directly accessible. 
+This two-week course offers field-specific expertise and hands-on experience solving bioelectric or biomechanical problems that arise in current biomedical research and clinical practice. Participants will receive training in numerical methods, image analysis, and computational tools necessary to carry out end-to-end, image based, subject specific simulations in bioelectricity or biomechanics, using freely available software. The course also offers keynote presentations by internationally known speakers as well as career related sessions on topics like Integrity in Research, Simulation Based Research Strategies, and a Grants and Funding in Science. The course is set in the beautiful setting of Park City, UT, with endless hiking, biking and mountain living experiences directly accessible.
 
 
 ## [Twelfth Madrid UPM Advanced Statistics and Data Mining Summer School (DL: June 5th, 2017)](http://dia.fi.upm.es/ASDM)
@@ -335,5 +334,3 @@ The summer school comprises 12 week-long, 15 lecture hours, courses, in subjects
 *Reading, UK ~ September 5-10, 2016*
 
 Scientists spend more and more time writing, maintaining, and debugging software. While techniques for doing this efficiently have evolved, only few scientists have been trained to use them. As a result, instead of doing their research, they spend far too much time writing deficient code and reinventing the wheel. In this course we will present a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Lectures are devised to be interactive and to give the students enough time to acquire direct hands-on experience with the materials. Students will work in pairs throughout the school and will team up to practice the newly learned skills in a real programming project — an entertaining computer game.
-
-
