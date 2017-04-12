@@ -134,12 +134,6 @@ Animals interact with a complex world, encountering a variety of challenges: The
 In each of the first three weeks, the course focuses on material at increasing levels of complexity (molecular/cellular, network, cognitive/behavioral), but always with an eye on these questions: Can we derive biologically plausible mechanisms that explain how nervous systems solve specific computational problems that arise in the laboratory or natural environment? Can these problems be decomposed into manageable pieces, and can we relate such mathematical decompositions to the observable properties of individual neurons and circuits? Can we identify the molecular mechanisms that provide the building blocks for these computations, as well as understand how the building blocks are organized into cells and circuits that perform useful functions?
 
 
-## [Computational Approaches to Memory and Plasticity (DL: March 12, 2016)](https://camp.ncbs.res.in/)
-_National Centre for Biological Sciences, Bangalore, India ~ July 1 - July 16, **2016**_
-
-CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Bangalore) is a 16-day summer school on the theory and simulation of learning, memory and plasticity in the brain. PhD students and post-docs from theoretical and/or experimental backgrounds (physics, math, neuroscience, engineering, etc.) are invited to apply. Familiarity with programming, dynamical systems, and/or computational neuroscience is desirable, but not necessary. We may also select a small number of exceptional undergraduate and Masters level students for the course, if they have sufficient background via courses and especially via project / hobby work related to these areas (write in your statement of interest & CV). The course will start with remedial tutorials on neuroscience / math / programming and then work upwards from sub-cellular electrical and chemical signaling in neurons, onward to micro-circuits and networks, all with an emphasis on learning, memory and plasticity.
-
-
 ## [Brains, Minds and Machines (DL: March 14, 2017)](http://www.mbl.edu/education/courses/brains-minds-and-machines/)
 *Marine Biological Laboratory, Woods Hole, US ~ August 13 – September 3, 2017*
 
@@ -214,6 +208,12 @@ provide practical experience through demos and hands on training. Moreover, we w
 _University of Minnesota, Minneapolis, MN, USA ~ July 30 - August 13, **2017**_
 
 This unique summer school focuses on computational techniques integrating the multi-disciplinary nature of sensory-motor neuroscience through combined empirical-theoretical teaching modules and makes use of databases of movement data (NSF CRCNS). Major breakthroughs in brain research have been achieved through computational models. The goal of the Summer School in Computational Sensory-Motor Neuroscience is to provide cross-disciplinary training in mathematical modeling techniques relevant to understanding brain function, dysfunction and treatment. In a unique approach bridging experimental research, clinical pathology and computer simulations, students will learn how to translate ideas and empirical findings into mathematical models. Students will gain a profound understanding of the brain’s working principles and diseases using advanced modeling techniques in hands-on simulations of models during tutored sessions by making use of data / model sharing. This summer school aims at propelling promising students into world-class researchers.
+
+
+## [Computational Approaches to Memory and Plasticity (DL: April 15, 2017)](https://camp.ncbs.res.in/)
+_National Centre for Biological Sciences, Bangalore, India ~ July 19 - August 3rd, 2017_
+
+CAMP @ Bangalore (Computational Approaches to Memory and Plasticity at NCBS, Bangalore) is a 16-day summer school on the theory and simulation of learning, memory and plasticity in the brain. PhD students and post-docs from theoretical and/or experimental backgrounds (physics, math, neuroscience, engineering, etc.) are invited to apply. Familiarity with programming, dynamical systems, and/or computational neuroscience is desirable, but not necessary. We may also select a small number of exceptional undergraduate and Masters level students for the course, if they have sufficient background via courses and especially via project / hobby work related to these areas (write in your statement of interest & CV). The course will start with remedial tutorials on neuroscience / math / programming and then work upwards from sub-cellular electrical and chemical signaling in neurons, onward to micro-circuits and networks, all with an emphasis on learning, memory and plasticity.
 
 
 ## [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](https://crcns.org/course)
