@@ -144,6 +144,11 @@ The basis of intelligence – how the brain produces intelligent behavior and ho
 
 Designed to emphasize higher cognitive functions and their underlying neural circuit mechanisms, the course aims at training talented and highly motivated students and postdoctoral fellows from Asia and other countries across the world. Applicants with quantitative (including Physics, Mathematics, Engineering and Computer Science) or experimental background are welcomed. The lectures will introduce the basic concepts and methods, as well as cutting-edge research on higher brain functions such as decision-making, attention, learning and memory. Modeling will be taught at multiple levels, ranging from single neuron computation, microcircuits and large-scale systems, to normative theoretical approach. Python-based programming labs coordinated with the lectures will provide practical training in important computational methods.
 
+## [Optical  Imaging  and  Electrophysiological  Methods  in  Neuroscience (DL: March 15, 2017)](http://www.parisneuro.org/)
+*Paris, France ~ June 12 - 24th, 2017*
+
+Optical  Imaging  and  Electrophysiological  Methods  in  Neuroscience  is  a  11  day  residential  course  of  lectures, demonstrations  and  practical  work  in  electrophysiology  and  microscopy applied  to  neurophysiology.  It  was  initiated  by  the  ENP  in  2009.
+
 
 ## [Interacting with neural circuits (DL: March 20, 2017)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Interacting-with-neural-circuits/)
 *Champalimaud Centre for the Unknown, Portugal ~ July 2 – 22, 2017*
