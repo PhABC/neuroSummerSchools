@@ -252,6 +252,11 @@ This course is suitable for users at all levels of expertise.
 
 The German Neuroinformatics Node (G-Node) organizes its eighth international one-week course on neural data analysis (formerly known as the G-Node Winter Course) at the LMU in Munich. The course offers hands-on experience in state-of-the-art methods for analyzing complex neural data to PhD students and postdocs from theoretical or experimental backgrounds. Applicants should have an elementary understanding of linear algebra and statistics, as well as basic programming knowledge in either Matlab or Python.
 
+## [Summer Neurolinguistics School 2017 (DL : May 15, 2017)](https://www.hse.ru/neuroling/summer_school_2017)
+*Moscow, Russia ~ June 22 - 24, 2017*
+
+ This year, the topic is Brain Stimulation in Language Research and Therapy. The event will take place in Moscow, Russia, June 22–24, 2017. The purpose of the school is to serve both as an educational event for students entering the field and as an academic environment where researchers and clinicians can exchange ideas and discuss the latest achievements in the field. This year the school will be devoted to various brain stimulation methods and their applications in neurolinguistic research and in language therapy. The school program includes lectures by such world-renowned researchers as Nina Dronkers (University of California), Roelien Bastiaanse (University of Groningen), and Dirk-Bart den Ouden (University of South Carolina).
+ 
 
 ## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
 *Gôttingen, Germany ~ September 6 - 16, 2017*
