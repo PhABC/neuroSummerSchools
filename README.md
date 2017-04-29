@@ -39,6 +39,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
   * [NEURON Simulation Environment Summer Course (DL : May 15, 2017)](#neuron-simulation-environment-summer-course-dl--may-15-2017)
   * [G-Node Course on Neural Data Analysis (DL : May 15, 2017)](#g-node-course-on-neural-data-analysis-dl--may-15-2017)
+  * [Summer Neurolinguistics School 2017 (DL : May 15, 2017)](#summer-neurolinguistics-school-2017-dl--may-15-2017)
   * [Summer Course on Computational Neuroscience (DL: June 24, 2017)](#summer-course-on-computational-neuroscience-dl-june-24-2017)
   * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2016)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
