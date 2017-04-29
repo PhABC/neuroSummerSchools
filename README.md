@@ -4,6 +4,7 @@ This readme will contain a list of summer (and seasonnal) summer schools in neur
 
 **Note** that some summer schools are free and sometimes even cover all expenses or offer grants for those in need.
 
+If you would like to add some summer schools to this list, go [here](https://github.com/PhABC/neuroSummerSchools/issues/10).
 
 
 
