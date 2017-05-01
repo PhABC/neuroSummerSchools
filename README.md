@@ -55,7 +55,7 @@ If you would like to add some summer schools to this list, go [here](https://git
   * [Deep Learning Summer School (DL: April 11, 2016)](#deep-learning-summer-school-dl-april-11-2016)
   * [Summer School in Image Based Biomedical Modeling (DL: May 20, 2017)](#summer-school-in-image-based-biomedical-modeling-dl-may-20-2017)
   * [Twelfth Madrid UPM Advanced Statistics and Data Mining Summer School (DL: June 5th, 2017)](#twelfth-madrid-upm-advanced-statistics-and-data-mining-summer-school-dl-june-5th-2017)
-  * [Advanced Scientific Programming in Python (DL: ???)](#advanced-scientific-programming-in-python-dl-)
+  * [Advanced Scientific Programming in Python (DL: May 31, 2017)](#advanced-scientific-programming-in-python-dl-may-31-2017)
 
 
 # Neuroscience
@@ -355,7 +355,7 @@ This two-week course offers field-specific expertise and hands-on experience sol
 The summer school comprises 12 week-long, 15 lecture hours, courses, in subjects such as Neural Networks and Deep Learning, Bayesian Networks, Bayesian Inference, Text Mining, and Time Series. Attendees may register in each course independently, and attend from one up to six different courses. Each course has theoretical as well as practical classes, in which each technique is put into practice, using mainly R and python. The summer school will be held at UPM's Montegancedo Campus. Extended information on course programmes, price, venue, accommodation and transport is available at the school's website.
 
 
-## [Advanced Scientific Programming in Python (DL: ???)](https://python.g-node.org/wiki/)
-*Reading, UK ~ September 5-10, 2016*
+## [Advanced Scientific Programming in Python (DL: May 31, 2017)](https://python.g-node.org/)
+*Nikiti, Greece ~ August 28 – September 2, 2017*
 
 Scientists spend more and more time writing, maintaining, and debugging software. While techniques for doing this efficiently have evolved, only few scientists have been trained to use them. As a result, instead of doing their research, they spend far too much time writing deficient code and reinventing the wheel. In this course we will present a selection of advanced programming techniques and best practices which are standard in the industry, but especially tailored to the needs of a programming scientist. Lectures are devised to be interactive and to give the students enough time to acquire direct hands-on experience with the materials. Students will work in pairs throughout the school and will team up to practice the newly learned skills in a real programming project — an entertaining computer game.
