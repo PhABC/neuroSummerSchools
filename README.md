@@ -260,10 +260,10 @@ The German Neuroinformatics Node (G-Node) organizes its eighth international one
  This year, the topic is Brain Stimulation in Language Research and Therapy. The event will take place in Moscow, Russia, June 22–24, 2017. The purpose of the school is to serve both as an educational event for students entering the field and as an academic environment where researchers and clinicians can exchange ideas and discuss the latest achievements in the field. This year the school will be devoted to various brain stimulation methods and their applications in neurolinguistic research and in language therapy. The school program includes lectures by such world-renowned researchers as Nina Dronkers (University of California), Roelien Bastiaanse (University of Groningen), and Dirk-Bart den Ouden (University of South Carolina).
  
 
-## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
-*Gôttingen, Germany ~ September 6 - 16, 2017*
+## [Summer Course on Computational Neuroscience (DL: July 23, 2017)](http://www.bccn-goettingen.de/events/cns-course)
+*Göttingen, Germany ~ September 2 - 10, 2017*
 
-The school consists of consecutive two day thematic blocks dedicated to a particular theoretical approach to neural circuit dynamics. Each lecturer will give a self-contained introduction to his/her particular theoretical approach in two sets of morning lectures. In the afternoon, participants will work on problem sets designed to develop proficiency in these theoretical tools and approaches, for an in-depth understanding of the mathematical techniques presented earlier that day. Every second day, participants will present the results of their problems sets followed by a closing discussion lead by the lecturer in charge. A laid back style evening lecture by a senior scientist will take place right after that.
+The school consists of consecutive two day thematic blocks dedicated to a particular theoretical approach to neural circuit dynamics. Each lecturer will give a self-contained introduction to his/her particular theoretical approach in two sets of morning lectures. In the afternoon, participants will work on problem sets designed to develop proficiency in these theoretical tools and approaches, for an in-depth understanding of the mathematical techniques presented earlier that day. Every second day, participants will present the results of their problems sets followed by a closing discussion lead by the lecturer in charge. Laid back style evening lectures by senior scientists will take place on the alternating evenings.
 
 
 ## [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](http://www.laconeu.cl/)
