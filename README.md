@@ -12,6 +12,7 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Table of Contents
 - [Neuroscience](#neuroscience)
+  * [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](#summer-institute-in-neuroimaging-and-data-science-neurohackweek)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
   * [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](#advanced-course-on-neural-data-analysis-dl-31-january-2017)
   * [Neurobiology (DL: February 1, 2017)](#neurobiology-dl-february-1-2017)
@@ -60,7 +61,7 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Neuroscience
 
-## [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](neurohackweek.github.io)
+## [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](https://neurohackweek.github.io/)
 *The University of Washington eScience Institue, September 4th-8th, 2017*
 Neurohackweek is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington eScience Institute. Participants learn about technologies used to analyze human neuroscience data, and to make analysis and results shareable and reproducible. Morning sessions are devoted to hands-on lectures and afternoon sessions are devoted to participant-directed activities: hackathon and breakout sessions on topics of interest.
 
@@ -193,11 +194,11 @@ Computational approaches to neuroscience will produce important advances in our 
 ## [Microelectrode Techniques for Cell Physiology (DL: March 31st, 2017)](https://www.mba.ac.uk/microelectrode-techniques-cell-physiology)
 *Plymouth, United-Kingdom ~ August 30 - September 13, 2017*
 
-A variety of marine and other preparations will be used to illustrate the possibilities and limitations of the following techniques ; 
+A variety of marine and other preparations will be used to illustrate the possibilities and limitations of the following techniques ;
 
 *Electronics, Patch clamp, Intracellular injection, Slice recording, Optogenetics, Voltage clamp, Ion-sensitive electrodes, Fluorescent indicators, Photolysis, Multielectrode Arrays, Amperometry & Transgenic labelling.*
 
-The workshop is intended mainly for postgraduate students and postdoctoral workers from any discipline who wish to learn these techniques for use in their research. 
+The workshop is intended mainly for postgraduate students and postdoctoral workers from any discipline who wish to learn these techniques for use in their research.
 
 
 ## [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](http://courses.washington.edu/braindyn/)
@@ -262,7 +263,7 @@ The German Neuroinformatics Node (G-Node) organizes its eighth international one
 *Moscow, Russia ~ June 22 - 24, 2017*
 
  This year, the topic is Brain Stimulation in Language Research and Therapy. The event will take place in Moscow, Russia, June 22–24, 2017. The purpose of the school is to serve both as an educational event for students entering the field and as an academic environment where researchers and clinicians can exchange ideas and discuss the latest achievements in the field. This year the school will be devoted to various brain stimulation methods and their applications in neurolinguistic research and in language therapy. The school program includes lectures by such world-renowned researchers as Nina Dronkers (University of California), Roelien Bastiaanse (University of Groningen), and Dirk-Bart den Ouden (University of South Carolina).
- 
+
 
 ## [Summer Course on Computational Neuroscience (DL: June 24, 2017)](http://www.bccn-goettingen.de/events/cns-course)
 *Gôttingen, Germany ~ September 6 - 16, 2017*
