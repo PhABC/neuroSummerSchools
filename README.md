@@ -60,6 +60,10 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Neuroscience
 
+## [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](neurohackweek.github.io)
+*The University of Washington eScience Institue, September 4th-8th, 2017*
+Neurohackweek is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington eScience Institute. Participants learn about technologies used to analyze human neuroscience data, and to make analysis and results shareable and reproducible. Morning sessions are devoted to hands-on lectures and afternoon sessions are devoted to participant-directed activities: hackathon and breakout sessions on topics of interest.
+
 ## [Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)
 *Centre de Recerca Matemàtica, Barcelona, Spain ~ January 16 - 20, 2017*
 
