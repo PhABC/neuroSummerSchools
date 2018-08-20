@@ -11,7 +11,6 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Table of Contents
 - [Neuroscience](#neuroscience)
-  * [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](#summer-institute-in-neuroimaging-and-data-science-neurohackweek)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
   * [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](#advanced-course-on-neural-data-analysis-dl-31-january-2017)
   * [Neurobiology (DL: February 1, 2017)](#neurobiology-dl-february-1-2017)
@@ -35,7 +34,7 @@ If you would like to add some summer schools to this list, go [here](https://git
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
   * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl--april-2nd-2017)
   * [NRSN Summer School in Neuroscience on Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-on-neural-circuits-and-behavior-dl-april-3rd-2017)
-  * [Visual Neuroscience: From Spikes to Awareness (DL : 3 April, 2018)](#visual-neuroscience-from-spikes-to-awareness-dl-april-3rd-2018)
+  * [Visual Neuroscience: From Spikes to Awareness (DL : 3 April, 2018)](#visual-neuroscience-from-spikes-to-awareness-dl--3-april-2018)
   * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensory-motor-neuroscience-dl-april-11-2016)
   * [Computational Approaches to Memory and Plasticity (DL: April 15, 2017)](#computational-approaches-to-memory-and-plasticity-dl-april-15-2017)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
@@ -46,6 +45,7 @@ If you would like to add some summer schools to this list, go [here](https://git
   * [Latin American School on Computational Neuroscience (LACONEU) (DL: September 30th, 2016)](#latin-american-school-on-computational-neuroscience-laconeu-dl-september-30th-2016)
   * [School on Neurotechniques (DL: ???)](#school-on-neurotechniques-dl-)
   * [{FR} Connectivité multimodale, de la théorie aux applications (DL: ???)](#fr-connectivité-multimodale-de-la-théorie-aux-applications-dl-)
+  * [Summer Institute in Neuroimaging and Data Science (Neurohackweek) (DL: ???)](#summer-institute-in-neuroimaging-and-data-science-neurohackweek-dl-)
   * [Ion channels in the brain in health and disease (DL: ???)](#ion-channels-in-the-brain-in-health-and-disease-dl-)
   * [Connectomics: from Micro- to Meso- and Macro-Scales (DL: ???)](#connectomics-from-micro--to-meso--and-macro-scales-dl-)
 - [Related Fields (modeling, machine learning, etc.)](#related-fields-modeling-machine-learning-etc)
