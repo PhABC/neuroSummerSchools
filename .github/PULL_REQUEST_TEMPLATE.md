@@ -1,10 +1,6 @@
-# Suggesting more summer school in Neuroscience
+## Description
+<!--- Describe the nature of the changes contained in this PR -->
 
-For any summer school suggestion that should be added to the list, please write a comment with the following information ;
-
-**Name :**
-**Website :**
-**Application Deadline :**
-**Location :**
-**Dates :**
-**Short description :**
+## Justification
+<!--- ONLY IF REMOVING OR MODIFYING AN ALREADY LISTED SCHOOL -->
+<!--- Explain why a given school was removed from the list or modified -->
