@@ -61,9 +61,6 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Neuroscience
 
-## [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](https://neurohackweek.github.io/)
-*The University of Washington eScience Institue, September 4th-8th, 2017*
-Neurohackweek is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington eScience Institute. Participants learn about technologies used to analyze human neuroscience data, and to make analysis and results shareable and reproducible. Morning sessions are devoted to hands-on lectures and afternoon sessions are devoted to participant-directed activities: hackathon and breakout sessions on topics of interest.
 
 ## [Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)
 *Centre de Recerca Matemàtica, Barcelona, Spain ~ January 16 - 20, 2017*
@@ -297,6 +294,10 @@ Investigating information processing and identifying operational rules of brain 
 
 L'École d'Été 2017, offrira une formation théorique et pratique de base sur les analyses de connectivité appliqués à des données de différents types tels que l'EEG/MEG et l'IRM. L'École se déroule sur deux jours : une première journée sera dédiée à la formation pratique et accueillera plusieurs conférenciers et la deuxième journée sera consacrée à une formation pratique sous forme d'ateliers. L'École d'été aura lieu les lundi et mardi 15 et 16 mai 2017 en journée, au Domaine Cataraqui. Les participants auront la possibilité d'assister qu'à la journée théorique (première journée) ou de participer aux deux journées.
 
+## [Summer Institute in Neuroimaging and Data Science (Neurohackweek) (DL: ???)](https://neurohackweek.github.io/)
+*The University of Washington eScience Institue, September 4th-8th, 2017*
+
+Neurohackweek is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington eScience Institute. Participants learn about technologies used to analyze human neuroscience data, and to make analysis and results shareable and reproducible. Morning sessions are devoted to hands-on lectures and afternoon sessions are devoted to participant-directed activities: hackathon and breakout sessions on topics of interest.
 
 ## [Ion channels in the brain in health and disease (DL: ???)](http://www.fens.org/Training/CAJAL-programme/CAJAL-Courses-2017/Ion-channels/)
 *Bordeaux Neurocampus, France ~ September 4 – 22, 2017*
