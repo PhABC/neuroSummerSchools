@@ -9,7 +9,6 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 
 
-
 # Table of Contents
 - [Neuroscience](#neuroscience)
   * [Summer Institute in Neuroimaging and Data Science (Neurohackweek)](#summer-institute-in-neuroimaging-and-data-science-neurohackweek)
@@ -36,6 +35,7 @@ If you would like to add some summer schools to this list, go [here](https://git
   * [Summer Workshop on the Dynamic Brain (DL: April 1st, 2017)](#summer-workshop-on-the-dynamic-brain-dl-april-1st-2017)
   * [Telluride Neuromorphic Cognition Engineering Workshop (DL : April 2nd, 2017)](#telluride-neuromorphic-cognition-engineering-workshop-dl--april-2nd-2017)
   * [NRSN Summer School in Neuroscience on Neural Circuits and Behavior (DL: April 3rd, 2017)](#nrsn-summer-school-in-neuroscience-on-neural-circuits-and-behavior-dl-april-3rd-2017)
+  * [Visual Neuroscience: From Spikes to Awareness (DL : 3 April, 2018)](#visual-neuroscience-from-spikes-to-awareness-dl-april-3rd-2018)
   * [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](#summer-school-in-computational-sensory-motor-neuroscience-dl-april-11-2016)
   * [Computational Approaches to Memory and Plasticity (DL: April 15, 2017)](#computational-approaches-to-memory-and-plasticity-dl-april-15-2017)
   * [Berkeley summer course in mining and modeling of neuroscience data (DL: End April, 2016)](#berkeley-summer-course-in-mining-and-modeling-of-neuroscience-data-dl-end-april-2016)
@@ -226,6 +226,13 @@ range of model species including rodents, zebrafish, flies, and humans.
 We will also discuss about the advantages of these techniques, their potential pitfalls and how they can be
 synergistically combined. In addition to lectures, research talks and journal club sessions, the course will
 provide practical experience through demos and hands on training. Moreover, we will have group discussions and students’ presentations for combining the theoretical and the practical parts of the course.
+
+## [Visual Neuroscience: From Spikes to Awareness (DL : 3 April, 2018)](http://www.allpsych.uni-giessen.de/rauisch/)
+_Giessen, Germany ~ **September 2-14 2018**_
+
+The European Summer School exposes young vision researchers—at the late pre-doctoral or early post-doctoral level—to the principal methods and seminal issues of contemporary visual neuroscience. In addition, it seeks to build a basic fluency in the emerging lingua franca of computational neuroscience. The range of topics is broad, literally from spikes to awareness, and the pace correspondingly brisk. This intensive experience should allow participants take a broader view of, and make more informed decisions about, their future research direction.
+
+The European Summer School is taught by leading researchers in neurobiology, neuropsychology, psychophysics, and theoretical neuroscience. Two thematically related topics are covered each day, with approximately 3 hours allotted to each (including discussion time). An after-dinner discussion provides an opportunity to contrast and compare the day’s lectures. In addition, students pursue computational and theoretical projects (based on Matlab) during the afternoon, to experiment with key concepts and techniques of computational neuroscience.
 
 
 ## [Summer School in Computational Sensory-Motor Neuroscience (DL: April 11, 2016)](http://www.compneurosci.com/CoSMo/)
