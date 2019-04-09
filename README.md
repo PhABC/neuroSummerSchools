@@ -11,6 +11,7 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Table of Contents
 - [Neuroscience](#neuroscience)
+  * [Barcelona summer school for Advanced Modelling of Behavior (BAMB!)](#barcelona-summer-school-for-advanced-modelling-of-behavior-bamb)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
   * [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](#advanced-course-on-neural-data-analysis-dl-31-january-2017)
   * [Neurobiology (DL: February 1, 2017)](#neurobiology-dl-february-1-2017)
@@ -60,6 +61,21 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 
 # Neuroscience
+
+
+## [Barcelona summer school for Advanced Modelling of Behavior (BAMB!)](www.bambschool.org)
+*Barcelona, Spain ~ 4-10 September 2019*
+
+**Application Deadline : 3 June, 2019**
+
+The new Barcelona summer school for Advanced Modelling of Behavior (BAMB!) teaches advanced techniques in model-based analysis of behavior (humans and other species) to cognitive and computational neuroscientists at PhD and early career levels. This will be achieved through structured lectures, talks, hands-on tutorials and group project aimed at making knowledge obtained directly applicable to the participants' own research. We want the trainees to acquire both the conceptual bases and the technical skills that will enable them to pursue a full modelling approach on their own when they come back to their lab.
+
+The course is intended for PhD students and postdocs in cognitive and computational neuroscience with solid background in computational/quantitative analysis to benefit maximally from the advanced training offered by the course. Proficiency in either Python or Matlab is also required. We will seek a nice blend of experimentalists (cognitive psychology / neuroscience) and theoreticians (with or without experience in cognitive modeling).Female scientists and scientists from underrepresented countries are especially encouraged to apply.
+
+**Organizers:** Chris Summerfield (Oxford / Deepmind), Klaus Wimmer (CRM, Barcelona), Alex Hyafil (UPF/CRM, Barcelona)
+
+**Confirmed Faculty:** Jean Daunizeau (ICM, Paris), Alex Hyafil (UPF/CRM, Barcelona), Kerstin Preuschoff (Geneva), 
+Alfonso Renart (Champalimaud), Maneesh Sahani (UCL)
 
 
 ## [Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)
