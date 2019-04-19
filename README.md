@@ -11,6 +11,7 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Table of Contents
 - [Neuroscience](#neuroscience)
+  * [IBRO-ICPBR Summer School of Primate Neurobiology]()
   * [Barcelona summer school for Advanced Modelling of Behavior (BAMB!)](#barcelona-summer-school-for-advanced-modelling-of-behavior-bamb)
   * [Memory School (DL: 8 January, 2017)](#memory-school-dl-8-january-2017)
   * [Advanced Course on Neural Data Analysis (DL: 31 January, 2017)](#advanced-course-on-neural-data-analysis-dl-31-january-2017)
@@ -62,6 +63,18 @@ If you would like to add some summer schools to this list, go [here](https://git
 
 # Neuroscience
 
+## [IBRO-ICPBR Summer School of Primate Neurobiology](http://ibrosummerschool.ion.ac.cn/index.php)
+*Lectures: July 8th to July 14th, 2019 / Internships: July 1st to August 31st, 2019*
+
+**Application Deadline : 30th April, 2019**
+
+2019 Summer School of Primate Neurobiology will be held in the International Center for Primate Brain Research (ICPBR) affiliated with Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, and jointly sponsored by IBRO and ICPBR. The goal of this school is to provide introductory lectures to international young investigators (mainly graduate students and post-doctoral fellows) on recent advances in the science and technology related to non-human primate research, with relevance to the understanding of human brain functions and disorders. A portion of the students will be exposed to laboratory experience by participating in the two-month internship associated with ION labs. 
+
+The School will consist of two parts: Lectures and Tutorials (7 days) and Internship (two months). The lectures (mornings) will be given by distinguished researchers in the field of primate neurobiology, with full participation of students in the tutorials (afternoons) provided by faculty and teaching assistants. For lectures and tutorials, 30 students will be selected from the applicants. A small number of students (8-10 students) will also be accepted for internships in ION/ICPBR laboratories for participation in laboratory projects and exercises for a duration of two months. 
+
+The Summer School will cover the accepted applicants’ travel costs (economy class), accommodations and meals in Shanghai. The other costs will be taken care of by the applicants. We strongly suggest the applicants to purchase insurances in advance. 
+
+**Faculty:** Professor Richard Andersen (California Institute of Technology, USA), Professor Dora Angelaki (New York University, USA), Professor Hagai Bergman (Hebrew University, ISRAEL), Professor Colin Blakemore (University of London, UK), Professor Roberto Caminiti (University of Rome SAPIENZA, ITALY), Professor Robert Desimone (Massachusetts Institute of Technology, USA), Professor Tadashi Isa (Kyoto University, JAPAN), Professor Henry Kennedy (Stem Cell and Brain Research Institute, FRANCE), Professor Wu Li (Beijing Normal University, CHINA), Professor Nikos Logothetis (Max Planck Institute for Biological Cybernetics, GERMANY), Professor Anthony Movshon (New York University, USA), Professor Bill Newsome (Stanford University School of Medicine, USA), Professor Andrew Parker (University of Oxford, UK), Professor Muming Poo (Institute of Neuroscience, Chinese Academy of Sciences, CHINA), Professor Ranulfo Romo (National Autonomous University of Mexico, MEXICO), Professor Keiji Tanaka (RIKEN Center for Brain Science, JAPAN), Professor Xiaoqin Wang (Tsinghua University, CHINA)
 
 ## [Barcelona summer school for Advanced Modelling of Behavior (BAMB!)](www.bambschool.org)
 *Barcelona, Spain ~ 4-10 September 2019*
