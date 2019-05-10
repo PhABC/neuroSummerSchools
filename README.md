@@ -77,6 +77,9 @@ The course is intended for PhD students and postdocs in cognitive and computatio
 **Confirmed Faculty:** Jean Daunizeau (ICM, Paris), Alex Hyafil (UPF/CRM, Barcelona), Kerstin Preuschoff (Geneva), 
 Alfonso Renart (Champalimaud), Maneesh Sahani (UCL)
 
+## [IBRO-Simons Computational Neuroscience Imbizo 2020 (isiCNI2020)] (www.imbizo.africa)
+*Cape Town, South Africa, January 2020 (exact dates TBD)*
+**Application Deadline ~ September 2019**
 
 ## [Memory School (DL: 8 January, 2017)](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/MATHMEM_School.aspx)
 *Centre de Recerca Matemàtica, Barcelona, Spain ~ January 16 - 20, 2017*
